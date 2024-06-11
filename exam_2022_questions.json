@@ -1,0 +1,2382 @@
+[
+    {
+        "topic": "Lote examen 2022",
+        "question": "De les següents activitats que es realitzen en el programa del nen sa, quina esf de prevenció secundària?",
+        "options": {
+            "a": "La mesura del pes i talla",
+            "b": "la vacunació",
+            "c": "la prevenció dels accidents",
+            "d": "els consells sobre la higiene"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La mesura del pes i talla"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Els hipoglucemiants orals, també anomenat antidiabètics orals, són els fàrmacs més utilitzats en la diabetis tipus 2.",
+        "options": {
+            "a": "Quin dels següents fàrmacs pot tenir com a efecte secundari la hipoglucemia en gent gran?",
+            "b": "Anàlegs del GLP-1",
+            "c": "Sulfonilurees",
+            "d": "Pioglitazona"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Sulfonilurees"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L’educació diabetològica que es du a terme a l'Atenció Primària es pot estructurar en tres fases: immediata, d'ampliació i d'aprofundiment. Quins dels següents és un contingut imprescindible de la fase inmediata de l'educació diabetològica?",
+        "options": {
+            "a": "el consell antitabàquic",
+            "b": "les normes d'actuació en cas de viatge",
+            "c": "les mesures higièniques a la boca",
+            "d": "la cura dels peus"
+        },
+        "correct": {
+            "option": "a",
+            "content": "el consell antitabàquic"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les dietes semàfor faciliten indicacions alimentàries només d'àmbit qualitatiu i també són indicades per a persones amb molt baix nivell de comprensió. Segons aquest sistema, quin dels següents aliments estan lliures de control?",
+        "options": {
+            "a": "Begudes refrescants",
+            "b": "Fruites",
+            "c": "Farinacis",
+            "d": "Verdures"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Verdures"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents afirmacions és CERTA respecte als aliments especials per a persones diabètiques?",
+        "options": {
+            "a": "Es poden consumir a més a més de la dieta que fan habitualment",
+            "b": "estan subvencionats i, per tant, són barats",
+            "c": "contenen edulcorants",
+            "d": "són aliments que les persones diabètiques poden consumir lliurament"
+        },
+        "correct": {
+            "option": "c",
+            "content": "contenen edulcorants"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una persona diabètica que utilitza anàlegs d'insulina ràpida, quin interval de temps se li recomana deixar entre la injecció i la ingesta?",
+        "options": {
+            "a": "Cap, cal que es punxi immediatament abans de menjar",
+            "b": "15 minuts",
+            "c": "l'administració de la insulina no cal que guardi relació amb la ingesta",
+            "d": "45 minuts"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Cap, cal que es punxi immediatament abans de menjar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats formen part de l'etapa d'execució del procés d'atenció d'infermeria?",
+        "options": {
+            "a": "Elaborar objectius centrats en el pacient",
+            "b": "Portar a terme les intervencions infermeres",
+            "c": "Realitzar l'avaluació funcional",
+            "d": "Registrar les cures realitzades"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Registrar les cures realitzades"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents és un bon consell que pot oferir la infermera per prevenir els accidents a la llar?",
+        "options": {
+            "a": "Esmolar bé els ganivets",
+            "b": "Deixar els materials de neteja en diferents llocs de la casa",
+            "c": "Utilitzar sabates amb sola de cuir",
+            "d": "Utilitzar fogons interiors"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Utilitzar fogons interiors"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L'escala de valoració social en Gijón s'utilitza a l'atenció primària per detectar situacions de risc social. Amb un resultat e 16 punts en aquesta escala, es considera que la situació social de la persona avaluada és:",
+        "options": {
+            "a": "de risc social",
+            "b": "molt bona",
+            "c": "acceptable",
+            "d": "de risc de problemàtica social"
+        },
+        "correct": {
+            "option": "d",
+            "content": "de risc de problemàtica social"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La mesura de la pressió arterial en bipedestació al minut d'aixecar-se i als cinc minuts següents, es recomana realitzar-la quan existeix:",
+        "options": {
+            "a": "obesitat",
+            "b": "Sospita hipotensió ortostàtica en persones majors de 65 anys i diabètics",
+            "c": "Hipertensió però que sols afecta la pressió arterial diastòlica",
+            "d": "Amputació de les extremitats superiors"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Sospita hipotensió ortostàtica en persones majors de 65 anys i diabètics"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En quin dels següents símptomes que pateix el malalt amb càncer avançat és difícil aconseguir una millora?",
+        "options": {
+            "a": "constipació",
+            "b": "insomni",
+            "c": "dol.",
+            "d": "ANOREXIA"
+        },
+        "correct": {
+            "option": "d",
+            "content": "ANOREXIA"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina és la principal causa de disnea en un malalt oncològic que es provocada per la pròpia malaltia?",
+        "options": {
+            "a": "Ascites massiva (per la malaltia)",
+            "b": "Post Pneumonectomia",
+            "c": "Paralisi frenica",
+            "d": "Fibrosi postirradiació (pel tractament)"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Ascites massiva (per la malaltia)"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre les qualitats bàsiques que una infermera hauria de tenir per fer l'acompanyament espiritual a una persona amb càncer avançat, quina de les següents NO es considera una qualitat imprescindible?",
+        "options": {
+            "a": "Respecte a la realitat, les vivències i els valors de la persona que es vol acompanyar",
+            "b": "Obertura vers l'altre sense judicis de valors",
+            "c": "Actitud analítica, intentant buscar explicacions i justificacions",
+            "d": "Reconeixement de la biografia del malalt com a fet rellevant i significatiu."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Actitud analítica, intentant buscar explicacions i justificacions"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents opiacis per tractar el dolor oncològic pertany al segon esglaó de l'escala analgèsica de l'OMS?",
+        "options": {
+            "a": "Codeïna",
+            "b": "Metadona",
+            "c": "Buprenorfina",
+            "d": "Fentanil"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Codeïna"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El Sr. Aureli és un malalt en fase terminal que presenta una boca seborreica, quin dels següents tractaments estaria indicat?",
+        "options": {
+            "a": "Aplicar un antifúngic específic c/4 hores",
+            "b": "Glopejos amb povidona iodada al 7,5%",
+            "c": "Cal tractar-lo amb medicació sistèmica",
+            "d": "Substàncies desbridants naturals: pinya i altres"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Substàncies desbridants naturals: pinya i altres"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En estudi d'investigació les variables es poden classificar segons diferents criteris. Si es classifiquen segons les seves característiques, el “sexe” és una variable?",
+        "options": {
+            "a": "Qualitativa",
+            "b": "Quantitativa discreta",
+            "c": "Quantitativa continua",
+            "d": "Activa o manipulable"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Qualitativa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En el disseny de les guies de Pràctica Clínica cal seguir unes frases amb unes activitats definides. En quina de les següents fases s'inclou: L'elaboració de les preguntes clíniques?",
+        "options": {
+            "a": "Cerca i avaluació de la literatura",
+            "b": "Redacció de la guia",
+            "c": "Establir el grup de treball i les tasques",
+            "d": "Revisió final"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Establir el grup de treball i les tasques"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En una investigació quantitativa, l'activitat en la qual es formula la pregunta d'estudi i s'enuncien els objectius, a quina etapa correspon?",
+        "options": {
+            "a": "Comunicació",
+            "b": "Conceptualització",
+            "c": "Disseny",
+            "d": "Execució"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Conceptualització"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Els objectius de recerca sempre pretenen adquirir coneixements, que més tard podrá ser aplicat per canviar situacions reals. Per formular un objectiu de recerca cal utilitzar un verb d’acció que indica la voluntat d’ampliar el saber. Quin dels següents verbs seria indicat per enunciar un objectiu d’investigació?",
+        "options": {
+            "a": "Disminuir",
+            "b": "Promoure",
+            "c": "Comparar",
+            "d": "Millorar"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Comparar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Per estimar la talla que tindrá un nen o una nena al final del seu creixement, es pot fer un calcul aproximat. Quina formula es pot aplicar per calcular la talla d’una nena?",
+        "options": {
+            "a": "(talla de la mare + talla del pare +13)/2",
+            "b": "(talla del pare +13) + talla de la mare)/2",
+            "c": "talla materna - 13 cm",
+            "d": "talla paterna -13 cm"
+        },
+        "correct": {
+            "option": "d",
+            "content": "talla paterna -13 cm"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "37.        Quina de les següents vies d'administració dels medicaments té com a INCONVENIENT absorció erràtica i la necessitat de dosis més altes per aconseguir el mateix efecte?",
+        "options": {
+            "a": "c.    Òtica",
+            "b": "b.   Intravenosa",
+            "c": "Ocular",
+            "d": "Rectal"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Rectal"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En l'administració d'un fàrmac per via intramuscular, amb quin dels fàrmacs següents està aconsellat realitzar la tècnica en Z?",
+        "options": {
+            "a": "Ferro",
+            "b": "Penicil·lina",
+            "c": "Diclofenac",
+            "d": "Gentamicina"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Ferro"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Rebuig de mantenir el pes adequat a la talla i l'edat amb pèrdua ponderal superior al 15% del pes ideal segons talla i edat.",
+        "options": {
+            "b": "Absència en les noies, de 2 cicles menstruals consecutius.",
+            "c": "Quina de les següents afirmacions és CERTA respecte a l'adolescència?",
+            "d": "És una etapa de la vida que tendeix a ser cada vegada més curta en el països desenvolupats"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Absència en les noies, de 2 cicles menstruals consecutius."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La malaltia exantematica que comença amb una amigdalitis greu amb cefalàlgia i febre i després apareix l’exantema, primer al coll, i després a tot el cos, excepte a la palma i a la planta del peu, s’anomena:",
+        "options": {
+            "a": "Escarlatina",
+            "b": "Rubèola",
+            "c": "Impetigen",
+            "d": "Xarampió"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Escarlatina"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents és una recomanació adient per facilitar la valoració d’un/a adolescent a la consulta infermera?",
+        "options": {
+            "a": "Entrar des del principal de la entrevista en temes personals i íntims, afavorint la naturalitat",
+            "b": "Donar a l'entrevista un aire informal, com si estiguessis parlant amb un/a company/a",
+            "c": "Fer tota l’entrevista amb la presència dels pares per donar-li confiança",
+            "d": "Conèixer els esdeveniments, les modes, les novetats ets que son rellevants per la seva edat."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Conèixer els esdeveniments, les modes, les novetats ets que son rellevants per la seva edat."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents signes del desenvolupament físic de la noia es valora en els estadis puberals de Tanner?",
+        "options": {
+            "a": "l’eixamplament de la pelvis",
+            "b": "el grau de maduració dels ovaris",
+            "c": "l’aparició d¡acne juvenil",
+            "d": "el pèl pubià"
+        },
+        "correct": {
+            "option": "d",
+            "content": "el pèl pubià"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan hi ha una disfuncionalitat del patró activitat-exercici en edats avançades, un dels diagnóstics infermers que s’identifica freqüentment es:",
+        "options": {
+            "a": "Dèficit d'activitats recreatives",
+            "b": "Estrès per sobrecàrrega",
+            "c": "Deteriorament de la interacció social",
+            "d": "Trastorn de la imatge corporal"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Dèficit d'activitats recreatives"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons Marjory Gordon, l’adequació del gust, la vista, l'oïda, el tacte i l’olfacte es descriuen en el patró:",
+        "options": {
+            "a": "Cognitivo-perceptual",
+            "b": "Eliminació",
+            "c": "Percepció-maneig de la salut",
+            "d": "Autopercepció-autoconcepte"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Cognitivo-perceptual"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Per la representació gràfica de les relacions interpersonals i de l’entorn d’una persona, l’instrument que s’utilitza es el:",
+        "options": {
+            "c": "Histograma",
+            "d": "Ecograma"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Ecograma"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents escales s’utilitza per al diagnòstic diferencial entre la malaltia d’Alzheimer i la demencia vascular multiifartica?",
+        "options": {
+            "a": "D’Hachinski",
+            "b": "Global Deterioration Scale de Reiseberg",
+            "c": "Goldberg",
+            "d": "Hamilton"
+        },
+        "correct": {
+            "option": "a",
+            "content": "D’Hachinski"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A l’entrevista clínica s’utilitzen tècniques per afavorir la comunicació amb el pacient. Quina de les següents tècniques pretén que el pacient doni un sentit a les seves explicacions?",
+        "options": {
+            "a": "el senyalament",
+            "b": "la contenció",
+            "c": "les frases de repetició",
+            "d": "la clarificació"
+        },
+        "correct": {
+            "option": "d",
+            "content": "la clarificació"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "l’Oriol en un nen de 7 anys. Quina mitjana d’hores de son diaries serien les recomanades per la seva edat? a)10 b)14 c)8 d)12",
+        "options": {
+            "a": "Unes de les manifestacions freqüents de l’ansietat es",
+            "b": "Fatiga o pèrdua d’energia",
+            "c": "Dispnea i dificultat per respirar",
+            "d": "Hipersomnia gairebé diaria"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Dispnea i dificultat per respirar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats NO correspon a la fase resolutiva d’una entrevista semiestructurada?",
+        "options": {
+            "a": "Implicar al pacient en l’elaboració d’un pla diagnòstic i terapèutic",
+            "b": "Comprovar que el pacient ha entès les explicacions",
+            "c": "Explorar creences i expectatives",
+            "d": "Informar al pacient de la naturalesa del problema"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Explorar creences i expectatives"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La vacuna hexavalent que s’administra en els primers mesos de vida, inclou entre altres, la immunització contra:",
+        "options": {
+            "a": "l’Hepatitis B",
+            "b": "la Rubèola",
+            "c": "El Xarampió",
+            "d": "L'Hepatitis A"
+        },
+        "correct": {
+            "option": "a",
+            "content": "l’Hepatitis B"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En la interacció dins la relació assistencial, un dels aspectes que es relaciona amb l’enquadrament extern es:",
+        "options": {
+            "a": "Tot allò que ens permet entendre la subjectivitat del pacient",
+            "b": "L’actitud receptiva i tolerant davant del patiment aliè",
+            "c": "El respecte a la privacitat i confidencialitat de la informació que dóna el pacient",
+            "d": "La contenció dels propis conflictes i problemes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "El respecte a la privacitat i confidencialitat de la informació que dóna el pacient"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Per millorar la comunicació d’un cuidador/a amb un pacient amb demència, quin dels següents consells pot donar la infermera?",
+        "options": {
+            "a": "No incloure’l en les converses que no pot participar",
+            "b": "Mantenir cert contacte físic donar-li la mà i acariciar-lo",
+            "c": "Parlar al pacient de la malaltia per fer-lo conscient del seu problema",
+            "d": "So s'equivoca, corregir-lo de manera rutinaria"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Mantenir cert contacte físic donar-li la mà i acariciar-lo"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons els criteris de l¡European Society of Cardiology (ESC), una xifra de PA de 142/93 en un adult major de 16 anys correspon a la categoria de",
+        "options": {
+            "a": "Normal alta",
+            "b": "HTA grau 1",
+            "c": "HTA grau 2",
+            "d": "Normal"
+        },
+        "correct": {
+            "option": "b",
+            "content": "HTA grau 1"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Josep es un nen de 2 anys de edat que acudeix al CAP per febre. Cual de les seguents mesures per disminuir la febre está contraindicada?",
+        "options": {
+            "a": "Treure ropa al nen",
+            "b": "fregues amb alcohol o colonia",
+            "c": "banyar-lo amb agua tebia",
+            "d": "Baixar la temperatura ambiental"
+        },
+        "correct": {
+            "option": "b",
+            "content": "fregues amb alcohol o colonia"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les nafres acostumen a aparèixer en les zones del cos on la pressió és més intensa. En quina zona del cos apareixen les localitzades en decúbit dorsal o supí",
+        "options": {
+            "a": "Mal.leols",
+            "b": "condils",
+            "c": "Talons",
+            "d": "Trocànter"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Talons"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents proves es imprescindible per al diagnòstic de la Malaltia Pulmonar Obstructiva Crònica (MPOC)?",
+        "options": {
+            "a": "Ecocardiograma",
+            "b": "TAC toràcic",
+            "c": "Gasometria arterial",
+            "d": "Espirometria forçada"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Espirometria forçada"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L'Índex de massa corporal (IMC) es un parámetre que expresa el risc cardiovascular que re l’individu segons el pes i la talla. Segons la classificació de l’OMS, un IMC de 28, correspon a:",
+        "options": {
+            "a": "Obesitat mòrbida",
+            "b": "Obesitat",
+            "c": "Normopès",
+            "d": "Sobrepes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Sobrepes"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina és la complicació aguda MÉS FREQÜENT entre les persones diabètiques tractades farmacològicament.",
+        "options": {
+            "a": "Les úlceres",
+            "b": "La infecció urinària",
+            "c": "La gingivitis",
+            "d": "La hipoglucemia"
+        },
+        "correct": {
+            "option": "d",
+            "content": "La hipoglucemia"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les dietes semàfor faciliten indicacions alimentàries només d’àmbit qualitatiu i també són indicades per a persones amb poc nivell de comprensió. Segons aquest sistema, quin dels següents aliments están lliures de control?",
+        "options": {
+            "a": "Begudes refrescants",
+            "b": "Verdures",
+            "c": "Fruites",
+            "d": "Farinacis"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Verdures"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents afirmacions és CERTA respecte als aliments especials per a persones diabètiques?",
+        "options": {
+            "a": "Estan subvencionats i per tant, són barats",
+            "b": "Estan pensats per consumer-los més a més de la dieta que fan habitualment",
+            "c": "Són aliments que les persones diabètiques poden consumir lliurament",
+            "d": "Contenen edulcorants"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Contenen edulcorants"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Es la fase de microalbuminúria, un control òptim de la glicèmia pot  alentir i fins i tot aturar la seva progressió",
+        "options": {
+            "a": "És una complicació macroangiopática de la diabetes",
+            "b": "Quina de les següents afirmacions és CERTA respecte a la conservació de la insulina.",
+            "c": "Si s’ha de traslladar, s’ha de congelar prèviament",
+            "d": "S’ha de conservar entre 2 – 8 ºC"
+        },
+        "correct": {
+            "option": "d",
+            "content": "S’ha de conservar entre 2 – 8 ºC"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La HTA diastólica ???? en els apunts costa HTA a secas, corroborado por compis con médicos que es Diastólica",
+        "options": {
+            "a": "Quin dels següents és un símptoma de les polineuropaties diabètiques?",
+            "b": "Les alteracions del ritme cardíac",
+            "c": "La hipotensió postural",
+            "d": "El formigueig"
+        },
+        "correct": {
+            "option": "d",
+            "content": "El formigueig"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats formen part de l’etapa d’execució del procés d’atenció d’infermeria?",
+        "options": {
+            "a": "Portar a terme les intervencions infermeres",
+            "b": "Registrar les cures realitzades",
+            "c": "Elaborar objectius centrats en el pacient",
+            "d": "Realitzar l’avaluació funcional"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Registrar les cures realitzades"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin del següents es un bon consell que pot oferir la infermera per prevenir els accidents a la llar?",
+        "options": {
+            "a": "Esmolar bé els ganivets",
+            "b": "Utilitzar sabates amb sola de cuir",
+            "c": "Deixar els materials de neteja en diferents llocs de la casa",
+            "d": "Utilitzar fogons interiors"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Utilitzar fogons interiors"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La nafra profunda que s’estén fins a la dermis i als teixits subcutanis i en la que acostuma a haver-hi una escara blanca i secreció purulenta, en quin dels següents estadiatges es troba?",
+        "options": {
+            "a": "IV",
+            "b": "III",
+            "c": "I",
+            "d": "II"
+        },
+        "correct": {
+            "option": "b",
+            "content": "III"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La mesura de la pressió arterial en bipedestació al minut d’aixecar se i als cinc minuts següents, es recomana realizar-la quan existeix:",
+        "options": {
+            "a": "Obesitat",
+            "b": "Hipertensió però que sols afecta la pressió arterial diastólica",
+            "c": "Amputació de les extremitats superiors",
+            "d": "Sospita d’hipotensió o d’ortostatisme en persones majors de 65 anys i diabètics"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Sospita d’hipotensió o d’ortostatisme en persones majors de 65 anys i diabètics"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons els criteris de classificació de l’informe de la JNC, una xifra de PA de 132/86 en un adult major de 18 anys sense tractament correspon a la categoría de:",
+        "options": {
+            "a": "Normal alta",
+            "b": "HTA de grau 2",
+            "c": "Normal",
+            "d": "HTA de grau 1"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Normal alta"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina és l’exploració complementària imprescindible per al diagnòstic de la Malaltia Pulmonar Obstructiva Crònica (MPOC)?",
+        "options": {
+            "a": "Registre del flux aspiratori màxim",
+            "b": "Broncoscòpia",
+            "c": "Espirometria forçada",
+            "d": "TAC toràcic"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Espirometria forçada"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En quin dels següents símptomes que pateix el malalt amb cáncer avançat és difícil aconseguir una millora?",
+        "options": {
+            "a": "Anorèxia",
+            "b": "Dolor",
+            "c": "Insomni",
+            "d": "Constipació"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Anorèxia"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre les qualitats bàsiques que una infermera hauria de tenir per fer l’acompanyament espiritual a una persona amb cáncer avançat, quina de les següents NO és considera una qualitat/imprescindible?",
+        "options": {
+            "a": "Respecte a la realitat, les vivències i els valors de la persona que es vol acompanyar",
+            "b": "Reconeixement de la biografia del malalt com a fet rellevant i significatiu",
+            "c": "Obertura vers l’altre sense judicis de valor",
+            "d": "Actitud analítica, intentant buscar explicacions i justificacions"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Actitud analítica, intentant buscar explicacions i justificacions"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La situació de malatia terminal provoca reaccions emocionals diverses, en el malalt, en la familia i en l’equip terapèutic. Què pot fer l’equip per tal d’evitar el burn out profesional?",
+        "options": {
+            "a": "Protegir-se de les demandes famílies",
+            "b": "Treballar de forma interdisciplinària",
+            "c": "Evitar les excessives responsabilitats",
+            "d": "Fer rotacions en les diferents unitats"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Treballar de forma interdisciplinària"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En un estudi d’investigació, les variables es poden classificar segons criteris. Si es clasifiquen segons les seves característiques, el “sexe” és una variable?",
+        "options": {
+            "a": "Activa o manipulable",
+            "b": "Quantitativa discreta",
+            "c": "Quantitativa continua",
+            "d": "Qualitativa"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Qualitativa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En el disseny de les guies de Pràctica Clínica cal seguir unes fases amb unes activitats definides. En quina de les següents fases s’inclou: L’elaboració de les preguntes clíniques?",
+        "options": {
+            "a": "Redacció de la guía",
+            "b": "Cerca i avaluació de la literatura",
+            "c": "Revisió final",
+            "d": "Establir el grup de treball i les tasques"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Establir el grup de treball i les tasques"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "D’acord a la investigació quantitativa, la selecció dels participants o subjectes d’estudi es realitza tenint en compte que:",
+        "options": {
+            "a": "La unitat d’anàlisi es l’individu",
+            "b": "S’ha de calcular la mida mostral",
+            "c": "El mostreig és no probabilístic",
+            "d": "La mostra és flexible"
+        },
+        "correct": {
+            "option": "b",
+            "content": "S’ha de calcular la mida mostral"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents afirmacions, és una de les avantatges dels comprimits amb recobriment entèric que s'administren oralment?",
+        "options": {
+            "a": "Es pot dissoldre",
+            "b": "Resisteix l’acció de l’àcid gàstric",
+            "c": "És fácil d’empassar",
+            "d": "Es pot prendre amb llet"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Resisteix l’acció de l’àcid gàstric"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan l’AAS s’utilitza a dosis altes a partir de 3g/dia, amb una dosi máxima de 8g/dia, quin efecte es pretén obtenir?",
+        "options": {
+            "a": "Analgèsic",
+            "b": "Antiflamatori",
+            "c": "Antiagregant",
+            "d": "Antipirètic"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Antiflamatori"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La malatia exantèmica que comença amb una amigdalitis greu amb cefalalgia i febre i després apareix l’exantema, primer al coll, i després a tot el cos, excepte a la palma i a la planta del peu, s’anomena:",
+        "options": {
+            "a": "Xarampió",
+            "b": "Rubèola",
+            "c": "Impetigen",
+            "d": "Escarlatina"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Escarlatina"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents signes del desenvolupament físic de la noia es valora en els estadis puberals de Tanner?",
+        "options": {
+            "a": "L’eixamplament de la pelvis",
+            "b": "El pél pubià",
+            "c": "L’aparició d’acne juvenil",
+            "d": "El grau de maduració dels ovaris"
+        },
+        "correct": {
+            "option": "b",
+            "content": "El pél pubià"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Transtorn en la percepció de la propia imatge; afirmació d’estar obès fins i tot quan hi ha desnutrició",
+        "options": {
+            "c": "L’absència en les noies de, 2 cicles menstruals consecutius",
+            "d": "Els infants majors de 2 anys en els que el seu IMC es troba entre els percentils 85 i 95, tenen:"
+        },
+        "correct": {
+            "option": "c",
+            "content": "L’absència en les noies de, 2 cicles menstruals consecutius"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Per a la representació gràfica de les relacions interpersonals i de l’entorn d’una persona, l’instrument que s’utilitza és el:",
+        "options": {
+            "a": "Cronograma",
+            "b": "Ecograma",
+            "c": "Histograma",
+            "d": "Genograma"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Ecograma"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan hi ha una disfuncionalitat del patró activitat- exercici en edats avançades, un dels diagnòstics infermers que s’identifica freqüentment és:",
+        "options": {
+            "a": "Dèficit d’activitats recreatives",
+            "b": "Deteriorament de la interacció social",
+            "c": "Estrès per sobrecàrrega",
+            "d": "Transtorn de la imatge corporal"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Dèficit d’activitats recreatives"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En la interacció dins de la relació asistencial, un dels aspectes que es relaciona amb l’enquadrament extern és:",
+        "options": {
+            "a": "La contenció dels propis conflictes i problemes",
+            "b": "L’actitud receptiva i tolerant davant del patiment aliè",
+            "c": "Tot allò que ens permet entendre la subjectivitat del pacient",
+            "d": "El respecte a la privacitat i confidencialitat de la información que  dóna el pacient"
+        },
+        "correct": {
+            "option": "d",
+            "content": "El respecte a la privacitat i confidencialitat de la información que  dóna el pacient"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A l’entrevista clínica s’utilitzen tècniques per afavorir la comunicació amb el pacient. Quina de les següents tècniques pretén que el pacient doni un sentit a les seves explicacions?",
+        "options": {
+            "a": "El senyalament",
+            "b": "La clarificació",
+            "c": "La contenció",
+            "d": "Les fases de repetició"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La clarificació"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin mecanisme de defensa està utilitzant una persona per elaborar l’ansietat si li costa acceptar l’opinió de l’altre i verbalitza o pensa: “és ell/ella qui no vol entendre”?",
+        "options": {
+            "a": "El desplaçament",
+            "b": "La dissociació",
+            "c": "La negació",
+            "d": "La projecció"
+        },
+        "correct": {
+            "option": "d",
+            "content": "La projecció"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents escales s’utilitza per al diagnòstic diferencial entre la malatía d’Alzheimer i demencia vascular multiinfàrtica?",
+        "options": {
+            "a": "Golberg",
+            "b": "Hamilton",
+            "c": "Global Deterioration Scale de Reisberg",
+            "d": "D’Hachinski"
+        },
+        "correct": {
+            "option": "d",
+            "content": "D’Hachinski"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons la taula de desenvolupament psicomotor, quina de les següents troballes es considera un signe d’alerta a qualsevol edat?",
+        "options": {
+            "a": "El sobresalt exagerat",
+            "b": "Els moviments oculars anormals",
+            "c": "El dit polze adduït",
+            "d": "La hipertonía d’abductors"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Els moviments oculars anormals"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L’Oriol és un nen de 7 anys. Quina mitjana d’hores de son diàries serien les recomanades per a la seva edat?",
+        "options": {
+            "a": "8",
+            "b": "12",
+            "c": "10",
+            "d": "14"
+        },
+        "correct": {
+            "option": "c",
+            "content": "10"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La vacuna hexavalent que s’admnistra en els primers mesos de vida, inclou entre d’altres, la immunització contra:",
+        "options": {
+            "a": "El Xarampió",
+            "b": "LaRubèola",
+            "c": "L’Hepatitis A",
+            "d": "L’Hepatitis B"
+        },
+        "correct": {
+            "option": "d",
+            "content": "L’Hepatitis B"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan l’àcid acetilsalicílic (AAS) s’utilitza a dosis altes (a partir de 3g/dia, amb una dosi màxima de 8g/dia) quin efecte pretén obtenir",
+        "options": {
+            "a": "Analgèsic",
+            "b": "Antipirectic",
+            "c": "Antiagregant",
+            "d": "Antiinflamatori"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Antiinflamatori"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Els objectius de recerca sempre pretenen adquirir coneixement, que més tard podrà ser aplicat per canviar situacions reals. Per formular un objectiu de recerca cal utilitzar un verb d’acció que indica la voluntat d’aplicar el saber. Quin dels següents verbs seria l’indicat per enunciar un objectiu d’investigació?",
+        "options": {
+            "a": "Comparar",
+            "b": "Disminuir",
+            "c": "Promoure",
+            "d": "Millorar"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Comparar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les dietes semàfor faciliten sindicacions alimentaries només d’àmbit qualitatiu i també son indicades per a persones amb molt baix nivell de comprensió. Segons aquest sistema, quin dels següents aliments estan lliures de control?",
+        "options": {
+            "a": "Verdures",
+            "b": "Fruites",
+            "c": "Farinacis",
+            "d": "Begudes refrescants d."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Verdures"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En els malalts diabètics que desenvolupen lesions en els peus , quina de les següents sol se la primera altercació?",
+        "options": {
+            "a": "Dolor que desapareix amb el moviment",
+            "b": "Debilitat en les ungles del peu que tendeixen a fer-se mes primes i trencar-se",
+            "c": "Pell calenta",
+            "d": "Disminució de la sensibilitat"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Disminució de la sensibilitat"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La malaltia exantemàtica que comença amb una amigdalitis greu amb cefalàlgia i febre i després apareix exantema, primer al coll, després a tot el cos, excepte a la palma i planta del peu, s’anomena",
+        "options": {
+            "a": "rubèola",
+            "b": "impetigen",
+            "c": "xarampió",
+            "d": "escarlatina"
+        },
+        "correct": {
+            "option": "d",
+            "content": "escarlatina"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons la taula de desenvolupament psicomotor, quina de les següents troballes, es considera un signe d’alerta a qualsevol edat? apunts",
+        "options": {
+            "a": "hipertonia abductors",
+            "b": "dit polze adduït",
+            "c": "moviments oculars anormals",
+            "d": "sobresalt exagerat"
+        },
+        "correct": {
+            "option": "c",
+            "content": "moviments oculars anormals"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "¿Cuál de los siguientes signos del desarrollo físico del niño no se valora en los estadios puberales de Tanner?",
+        "options": {
+            "a": "La pilosidad pubiana.",
+            "b": "El tamaño del escroto.",
+            "c": "La pilosidad axilar.",
+            "d": "El tamaño del pene."
+        },
+        "correct": {
+            "option": "c",
+            "content": "La pilosidad axilar."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Irene es una niña de 4 años. ¿Cuántas dosis de vacuna antipoliomielítica tienen que tener administradas para considerarla bien vacunada según el calendario vacunal aprobado por el Consejo Interterritorial del SNS para el año 2014?",
+        "options": {
+            "a": "¿Cuál de las afirmaciones siguientes respecto a la biología del sueño en los niños es correcta?",
+            "b": "De los 6 a los 12 meses, el periodo más largo de sueño suele ser de 8 horas.",
+            "c": "El tiempo que tarda en dormirse un bebé de 2 meses es aproximadamente de 30 minutos. Pag 53",
+            "d": "Al nacer, el niño duerme unas 20 horas diarias."
+        },
+        "correct": {
+            "option": "c",
+            "content": "El tiempo que tarda en dormirse un bebé de 2 meses es aproximadamente de 30 minutos. Pag 53"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El patrón del sueño empieza a establecer su relación con el ciclo luz-oscuridad alrededor de los 6 meses de vida. Son 6 setm",
+        "options": {
+            "a": "TEMA 2: INFÀNCIA I ADOLESCÈNCIA",
+            "b": "Quina prova s’utilitza per explorar la visio cromatica?",
+            "c": "campimetria",
+            "d": "d’ishihara"
+        },
+        "correct": {
+            "option": "d",
+            "content": "d’ishihara"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "De les següents activitats que es realitzen en el programa de seguiment del nen sa, quina es de prevenció secundària?",
+        "options": {
+            "a": "Consells sobre higiene b. Mesura de pes i talla",
+            "b": "c.  Vacunació",
+            "c": "a.\tPrevenció accidents",
+            "d": "Quina de les seguents afirmacions es certa respecte l’adolescencia?"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Consells sobre higiene b. Mesura de pes i talla"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons M. Gordon l’adequacio del gust, la vista, l’oida, el tacte i l’olfacte es descriuen en el patró",
+        "options": {
+            "a": "percepció-maneig salut",
+            "b": "sexualitat-reproducció",
+            "c": "eliminacio",
+            "d": "cognitivo-perceptual"
+        },
+        "correct": {
+            "option": "d",
+            "content": "cognitivo-perceptual"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Barthel. A l’apartat referit al caminar, la Sra C.R. obté una puntuació de 10. Què significa aquesta puntuació?",
+        "options": {
+            "a": "És autònoma (PUNTUACIÓ:15)",
+            "b": "Necessita ajuda o supervisió (PUNTUACIÓ 10)",
+            "c": "Necessita una cadira de rodes",
+            "d": "És depenent inferior a 20 es depenent total"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Necessita ajuda o supervisió (PUNTUACIÓ 10)"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les principals recomanacions que pot fer la infermera a l’ancià respecte a la necessitat de vestir-se és:",
+        "options": {
+            "a": "Vestir-se segons la moda",
+            "b": "Rentar la roba amb productes especials",
+            "c": "Aconsellar l’ús de roba feta amb teixits naturals",
+            "d": "Utilitzar calçat esport"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Aconsellar l’ús de roba feta amb teixits naturals"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les recomanacions dietètiques que hauria de fer la infermera a l’ancià per afavorir la seva independència en la necessitat de menjar i beure és:",
+        "options": {
+            "a": "Evitar afegir condiments als menjars",
+            "b": "Realitzar 6 àpats fragmentats al llarg del dia",
+            "c": "Prendre regularment un complex vitamínic",
+            "d": "Ingerir entre 1500-2000 cc de líquid el dia TEMA 4: SALUT MENTAL"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Ingerir entre 1500-2000 cc de líquid el dia TEMA 4: SALUT MENTAL"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin mecanisme de defensa esta utilitzant una persona per elaborar l’ansietat si li costa acceptar l’opinio i verbalitza o pensa “ es ell/a que no ho vol”:",
+        "options": {
+            "a": "negacio",
+            "b": "dissociacio",
+            "c": "desplaçament",
+            "d": "projecció"
+        },
+        "correct": {
+            "option": "d",
+            "content": "projecció"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats NO es correspon a la fase resolutiva d’una entrevista semiestructurada?",
+        "options": {
+            "b": "comprovar que el pacient ha entès les explicacions",
+            "c": "informar al pacient de la naturalesa del problema",
+            "d": "explorar creences i expectatives"
+        },
+        "correct": {
+            "option": "d",
+            "content": "explorar creences i expectatives"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents escales s’utilitza per al dx diferencial entre l’ALZ i la demència vascular multiinfàrtica?",
+        "options": {
+            "a": "global deterioration scale de reisberg",
+            "b": "d’Hachinski",
+            "c": "goldberg",
+            "d": "hamilton"
+        },
+        "correct": {
+            "option": "b",
+            "content": "d’Hachinski"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En la interacció dins la relació assistencial, un dels aspectes que es relacionen en l’enquadrament extern és:",
+        "options": {
+            "a": "tot allò que ens permet entendre la subjectivitat del pacient",
+            "b": "la contenció dels propis conflictes i problemes",
+            "c": "actitud receptiva i tolerant davant patiment aliè",
+            "d": "el respecte a la privacitat i confidencialitat de la informació que dóna el pacient."
+        },
+        "correct": {
+            "option": "d",
+            "content": "el respecte a la privacitat i confidencialitat de la informació que dóna el pacient."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una prova cognitivo-funcional, que normalment emplena el familiar. Un qüestionari que valora la memòria a curt i llarg termini, l’orientació, la informació sobre fets quotidians i la capacitat de càlcul.",
+        "options": {
+            "a": "Quin dels següents NO és un mecanisme de defensa que s’utilitza per elaborar l’ansietat?",
+            "b": "La negació",
+            "c": "La projecció",
+            "d": "L’associació apunts"
+        },
+        "correct": {
+            "option": "d",
+            "content": "L’associació apunts"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A l’entrevista clínica s’utilitzen tècniques per afavorir la comunicació i el contacte emocional amb el pacient. Quina de les següents tècniques pretén que el pacient doni un sentit a les seves explicacions?",
+        "options": {
+            "a": "Les frases de repetició",
+            "b": "La clarificació",
+            "c": "L’assenyalament",
+            "d": "La contenció"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La clarificació"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "en la fase de microalbuminuria, un control òptim de glucèmia pot alentir fins aturar la seva progressió",
+        "options": {
+            "a": "Quina de les afirmacions és certa respecte a la insulina rápida o regular?",
+            "b": "derivat de la insulina humana biosintetica",
+            "c": "la seva acció de una durada aprox de 7-8h",
+            "d": "té un aspecte tèrbol i blanquinós"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Quina de les afirmacions és certa respecte a la insulina rápida o regular?"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents és un contingut imprescindible de fase inmediata de l’educació diabetologica? apunts",
+        "options": {
+            "a": "Cura peus",
+            "b": "Mesures higièniques boca",
+            "c": "Consell antitabàquic",
+            "d": "Normes d’actuació en cas de viatge"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Consell antitabàquic"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les dietes semàfor faciliten indicacions alimentàries només d'àmbit qualitatiu i també són indicades per a persones amb molt baix nivell de comprensió. Segons aquest sistema, quin dels següents aliments està lliure de control?",
+        "options": {
+            "a": "begudes refrescants",
+            "b": "verdures",
+            "c": "farinacis",
+            "d": "fruites"
+        },
+        "correct": {
+            "option": "b",
+            "content": "verdures"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents afirmacions és CERTA respecte als aliments especials per a persones diabètiques:",
+        "options": {
+            "a": "estan subvencionats i per tant són barats",
+            "b": "contenen endulcorants",
+            "c": "estan pensats per consumir-los a més a més de la dieta que fan habitualment",
+            "d": "són aliments que les persones diabètiques poden consumir lliurament"
+        },
+        "correct": {
+            "option": "b",
+            "content": "contenen endulcorants"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una persona diabética que s’utilitza anàlegs d’insulina ràpida, quin interval de temps se li recomana deixar entre la injecció i la ingesta?",
+        "options": {
+            "a": "45 minuts",
+            "b": "cap, cal que es punxi inmediatamente abans de menjar",
+            "c": "15 minuts",
+            "d": "l’administració de la insulina no cal que guardi cap relació amb la ingesta"
+        },
+        "correct": {
+            "option": "b",
+            "content": "cap, cal que es punxi inmediatamente abans de menjar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Les nafres acostumen a aparèixer en les zones del cos on la pressió és més intensa. En quina zona del cos apareixen les localitzades en decúbit dorsal o supí?",
+        "options": {
+            "d": "talons"
+        },
+        "correct": {
+            "option": "d",
+            "content": "talons"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La nafra profunda que s'estén fins a la dermis i als teixits subcutanis i en la que acostuma a haver-hi una escara blanca i secreció purulenta, en quin del ssegüents estadiatges es troba:",
+        "options": {
+            "a": "III",
+            "b": "I",
+            "c": "II",
+            "d": "IV"
+        },
+        "correct": {
+            "option": "a",
+            "content": "III"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En un pacient que presenta PAS entre 140-159 o una PAD 90-99 sense FRCV, quina recomanació i/o mesures s’han d’establir?",
+        "options": {
+            "a": "modificar estil de vida durant diverses setmanes i pautar fàrmacs si la PA no es controla",
+            "b": "modificar estil de vida durant diversos mesos i pautar fàrmacs si la PA no es controla",
+            "c": "no intervenir sobre la PA",
+            "d": "modificar estils de vida i pautar fàrmacs"
+        },
+        "correct": {
+            "option": "b",
+            "content": "modificar estil de vida durant diversos mesos i pautar fàrmacs si la PA no es controla"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre els continguts d’una visita de seguiment d’infermeria a un pacient diabètic, figura la higiene bucal. En quina fase s’inclou?",
+        "options": {
+            "a": "Anamnesi",
+            "b": "Exploració pag 38",
+            "c": "Avaluació",
+            "d": "Pla d’actuació"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Exploració pag 38"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La cardiopatia isquèmica, és una complicació crònica de les persones diabètiques que es pot classificar com:",
+        "options": {
+            "a": "Microangiopàtica",
+            "b": "Neuropàtica",
+            "c": "Macroangiopàtica pag 43",
+            "d": "Les respostes b i c són certes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Macroangiopàtica pag 43"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan s’inicia en un adult una insulinització en una sola dosis nocturna, cal començar amb una dosi de kg/dia:",
+        "options": {
+            "a": "0.1-0.2ui",
+            "b": "0.2-0.4 UI",
+            "c": "0.3-0.5 UI",
+            "d": "0.5-1 UI"
+        },
+        "correct": {
+            "option": "a",
+            "content": "0.1-0.2ui"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El Sr. H.R. acudeix a la consulta d’infermeria, i en prendre la TA, trobem que està a 158/94. Abans sempre havia estat normotens. Quina seria l’actuació correcta de la infermera?",
+        "options": {
+            "a": "Derivar-lo a la consulta del metge",
+            "b": "Realitzar dues noves preses de TA en un termini màxim de 2 mesos pag 23",
+            "c": "Recomanar-li dieta hiposòdica i que begui almenys 2L d’aigua al dia",
+            "d": "No cal fer res, ja que sens dubte es tracte de la HTA de bata blanca."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Realitzar dues noves preses de TA en un termini màxim de 2 mesos pag 23"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre els consells fonamentals sobre la hipoglucèmia, assenyala l’opció correcta que recomanaries al Sr Sirerol:",
+        "options": {
+            "a": "Realitzar una activitat física diària constant",
+            "b": "Si augmenta l’exercici habitual: ingerir prèviament un suplement d’hidrats de carboni",
+            "c": "No oblidar el suplement dietètic abans d’anar a dormir",
+            "d": "Tots els consells anteriors són correcte pag 42"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Tots els consells anteriors són correcte pag 42"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En explicar la dieta al Sr Sirerol, es tractarà de reduir la quantitat ingerida d’hidrats de carboni. Se li explicaran les equivalències bàsiques. Així doncs 20 g de pa, per quin aliment es pot canviar.",
+        "options": {
+            "a": "20 g de cigrons",
+            "b": "30 g d’arròs",
+            "c": "40 g de llenties",
+            "d": "100 g de patates"
+        },
+        "correct": {
+            "option": "a",
+            "content": "20 g de cigrons"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents és un bon consell que pot oferir la infermera per prevenir els accidents a la llar?",
+        "options": {
+            "a": "esmolar bé ganivets",
+            "b": "utilizar fogons interiors",
+            "c": "utilizar sabates amb sola de cuir",
+            "d": "deixar els materials de neteja en diferents llocs de la casa"
+        },
+        "correct": {
+            "option": "b",
+            "content": "utilizar fogons interiors"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Per millorar la comunicació d’un cuidador amb un pacient amb demència quin dels següents consells pot donar la infermera?",
+        "options": {
+            "a": "mantenir cert contacte físic donar-li la ma i acariciar-lo",
+            "b": "no incloure’l en les converses que no pot participar",
+            "c": "si s'equivoca, corregir-lo de manera rutinaria",
+            "d": "parlar amb el pacient de la malaltia per fer-lo conscient del seu problema"
+        },
+        "correct": {
+            "option": "a",
+            "content": "mantenir cert contacte físic donar-li la ma i acariciar-lo"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En els següents objectius a curt termini: “El Senyor Mir caminarà fins el seu dormitori amb un caminador”. Quin element manca?",
+        "options": {
+            "a": "El subjecte",
+            "b": "El criteri",
+            "c": "El verb",
+            "d": "El moment específic pag 28"
+        },
+        "correct": {
+            "option": "d",
+            "content": "El moment específic pag 28"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les recomanacions per el consell antitabàquic és oferir ajut per deixar de fumar. Per aquesta ajuda específica, quina de les següents pautes NO s’ha de tenir en compte? apunts",
+        "options": {
+            "a": "Motivació del fumador",
+            "b": "Data per deixar de fumar",
+            "c": "Nivells de dependència psicològica",
+            "d": "Nivells d’independència física"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Nivells d’independència física"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El señor Aureli és un malalt terminal que presenta una boca seborreica, quin dels següents tractaments estaria indicat?",
+        "options": {
+            "a": "Glopejos povidona 7.5%",
+            "b": "Substàncies desbridants naturals: pinya i altres",
+            "c": "Cal tractar amb medi sistèmica",
+            "d": "Aplicar antifúngic específic c/4h"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Substàncies desbridants naturals: pinya i altres"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Convé que mastegui trossos de pinya per estimular la salivació b. Ha de beure freqüentment glops d’aigua i altres líquids",
+        "options": {
+            "a": "c. Ha de fer glopeigs amb aigua oxigenada al 7.5%pàg 33 apunts",
+            "b": "a.    És recomanable l’ús , cada 2-3h, de saliva artificial",
+            "c": "Quin dels següents símptomes és característic d’una situació d’agonia?",
+            "d": "Anorèxia"
+        },
+        "correct": {
+            "option": "a",
+            "content": "c. Ha de fer glopeigs amb aigua oxigenada al 7.5%pàg 33 apunts"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La situació de malaltia terminal provoca reaccions emocionals diverses, en el malalt, en la família i en l’equip terapèutic. Què pot fer l’equip per tal d’evitar el burn out professional?",
+        "options": {
+            "a": "Protegir-se de les demandes de les famílies",
+            "b": "Evitar les excessives responsabilitats",
+            "c": "Fer rotacions en les diferents unitats",
+            "d": "Treballar de forma interdisciplinària"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Treballar de forma interdisciplinària"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "D’acord a la investigacio quantitativa la seleccio dels participants o subj estudi es realitza tenint en compte que:",
+        "options": {
+            "a": "mostreig es No probabilistic",
+            "b": "mostra es flexible",
+            "c": "unitat d’analisi es l’individu",
+            "d": "s’ha de calcular la mida mostral"
+        },
+        "correct": {
+            "option": "d",
+            "content": "s’ha de calcular la mida mostral"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En un estudi d’investigació les variables es poden classificar segons diferents criteris. Si es classifiquen segons les seves característiques, el sexe és una variable? pag",
+        "options": {
+            "a": "25 a. Qualitativa",
+            "b": "Quanti discreta",
+            "c": "a.\tQuanti continua",
+            "d": "a.\tActiva o manipulable"
+        },
+        "correct": {
+            "option": "a",
+            "content": "25 a. Qualitativa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En una investigació qualitativa l’activitat en la qual es formula la pregunta d’estudi i s’enuncien els objectius, a quina etapa es correspon? apunts",
+        "options": {
+            "a": "execució",
+            "b": "disseny",
+            "c": "comunicació",
+            "d": "conceptualització"
+        },
+        "correct": {
+            "option": "d",
+            "content": "conceptualització"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents etapes o fases és pròpia de la infermeria basada en evidència científica? pag 54",
+        "options": {
+            "a": "consulta a experts",
+            "b": "recollida dades",
+            "c": "anàlisi de dades",
+            "d": "formulació d’una pregunta estructurada"
+        },
+        "correct": {
+            "option": "d",
+            "content": "formulació d’una pregunta estructurada"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats, forma part de les etapes per a l’elaboració d’una guia de pràctica clínica? apunts",
+        "options": {
+            "a": "Selecció d’una condició o problema",
+            "b": "Revisió externa",
+            "c": "Prova pilot",
+            "d": "Totes són certes"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Revisió externa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats formen part de l’etapa d’execució del procés d’atenció d’infermeria? apunts",
+        "options": {
+            "a": "Registrar les cures realitzades",
+            "b": "Elaborar objectius centrats en el pacient",
+            "c": "Determinar les intervencions d’infermeria",
+            "d": "Realitzar l’avaluació funcional"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Registrar les cures realitzades"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin es el simptome de neurotoxicitat que pot requerir ingres del malalt en un centre de referencia i a retirar o rotar amb un altre opiaci segons criteri medic?",
+        "options": {
+            "a": "nausea",
+            "b": "deliri",
+            "c": "diaforesi",
+            "d": "mioclonies"
+        },
+        "correct": {
+            "option": "b",
+            "content": "deliri"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels seguents efectes adversos de les benzod tenen afectacions en el sistema nervios parasimpatic?",
+        "options": {
+            "a": "aritmia",
+            "b": "vertigen",
+            "c": "depressió",
+            "d": "nerviosisme"
+        },
+        "correct": {
+            "option": "a",
+            "content": "aritmia"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quin dels següents opiacis per tractar el dolor oncològic pertany al segon esglaó de l’escala analgèsica de l’oms?",
+        "options": {
+            "a": "Metadona",
+            "b": "Fentanil",
+            "c": "Bupren\nd. Dextropropoxi",
+            "d": "En una dona embarassada quin és l’analgèsic recomanable si presenta mal de cap i febre?"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Bupren\nd. Dextropropoxi"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan l’ AAS s’utitilitza a dosis altes (a partir 3g/dia, amb una dosi máxima de 8g/dia) quin efecte es pretén obtenir?",
+        "options": {
+            "a": "analgèsic",
+            "b": "antiagregant",
+            "c": "antipirètic",
+            "d": "antiinflamatori"
+        },
+        "correct": {
+            "option": "d",
+            "content": "antiinflamatori"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents afirmacions és un dels avantatges dels comprimits amb recobriment entèric que s’administren oralment?",
+        "options": {
+            "a": "es pot prendre amb llet",
+            "b": "és fàcil d’empassar",
+            "c": "es pot dissoldre",
+            "d": "resisteix l'acció de l'àcid gàstric"
+        },
+        "correct": {
+            "option": "d",
+            "content": "resisteix l'acció de l'àcid gàstric"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A Sr R.C. el metge li ha prescrit, recentment, ttmt per a la seva malaltia. Avui a la consulta de la infermera, li explica que té una tos seca i persistent i que nota alteracions en el gust d’alguns aliments. A quin tipus de fàrmac es pot atribuir aquests afectes? apunts",
+        "options": {
+            "a": "Inhibidors de l’enzim conversiu de l’angiotensina (IECA)",
+            "b": "Diürètics tiazídics",
+            "c": "Antiinflamatoris no esteroïdals (AINE)",
+            "d": "Benzodiazepines"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Inhibidors de l’enzim conversiu de l’angiotensina (IECA)"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "¿Cuál de las siguientes reacciones adversas, con afectación del SNC, se pueden observar con los analgésicos y antiinflamatorios no esteroideos?",
+        "options": {
+            "a": "Acúfenos.",
+            "b": "Dependencia psicológica.",
+            "c": "Depresión respiratoria.",
+            "d": "Disartria."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Acúfenos."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L’índex de massa corporal (IMC) és un paràmetre que expressa el risc cardiovascular que té un individu segons el pes i la talla. Segons la classificació de l’OMS, un IMC de 28, correspon a:",
+        "options": {
+            "a": "Normopès",
+            "b": "Sobrepès",
+            "c": "Obesitat mòrbida",
+            "d": "Obesitat"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Sobrepès"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. Quina de les següents afirmbacions és CERTA respecte als aliments especials per a persones diabètiques:",
+        "options": {
+            "a": "Són aliments que les persones diabètiques poden consumir lliurament",
+            "b": "Contenen edulcorants",
+            "c": "Estan pensats per consumir-los a més a més de la dieta que fan habitualment",
+            "d": "Estan subvencionats i per tant, són barats."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Contenen edulcorants"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. En un estudi d’investigació les variables es poden classificar segons diferents criteris. Si es classifiquen segons les seves característiques, el “sexe ” és una variable?",
+        "options": {
+            "a": "Qualitativa",
+            "b": "Quantitativa continua",
+            "c": "Activa o manipulable",
+            "d": "Quantitativa discreta"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Qualitativa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. Els objectius de recerca sempre pretenen adquirir coneixement, que més tard podrà ser aplicat per canviar situacions reals. Per formular un objectiu de recerca cal utilitzar un verb d’acció que indica la voluntat d’aplicar el saber. Quin dels següents verbs seria l’indicat per enunciar un objectiu d’investigació?",
+        "options": {
+            "a": "Comparar",
+            "b": "Disminuir",
+            "c": "Promoure",
+            "d": "Millorar"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Comparar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. Quina de les següents activitats formen part de l’etapa d’educació del procés d’atenció d’infermeria?",
+        "options": {
+            "a": "Elaborar objectius centrats en el pacient",
+            "b": "Portar a terme les intervencions infermeres",
+            "c": "Registrar l’avaluació funcional",
+            "d": "Registrar les cures realitzades"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Portar a terme les intervencions infermeres"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. En els dissenys de les guies des pràctica clínica cal seguir unes fases amb les activitats definides. En quina de les següents fases s’inclou: L’elaboració de les preguntes clíniques?",
+        "options": {
+            "a": "Redacció de la guia",
+            "b": "Establir el grup de treball i les tasques",
+            "c": "Cerca i avaluació de la literatura",
+            "d": "Revisió final"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Establir el grup de treball i les tasques"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. En una investigació quantitativa l’activitat en la qual està formulada la pregunta d’estudi i s’enuncien els objectius a quina etapa correspon?",
+        "options": {
+            "a": "Execució",
+            "b": "Conceptualització",
+            "c": "Disseny",
+            "d": "Comunicació"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Conceptualització"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. En quins fàrmacs orals per tractar una persona diabètica sol estar indicat realitzar l’autoanàlisi?",
+        "options": {
+            "a": "Glitazones",
+            "b": "Inhibidors de DPP4",
+            "c": "Metformina",
+            "d": "Sulfonilurea"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Sulfonilurea"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "2. Les nafres acostumen a aparèixer en les zones del cos on la pressió és més intensa. En quina zona del cos apareixen les localitzades en decúbit dorsal o supí?",
+        "options": {
+            "a": "Talons",
+            "b": "Còndils",
+            "c": "Mal·lèols",
+            "d": "Trocànter"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Talons"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina és la principal causa de disnea en un malalt oncològics que és provocada per la pròpia malaltia?",
+        "options": {
+            "a": "Ascites massiva",
+            "b": "Postpneumectomia",
+            "c": "Fibrosi postirradiació",
+            "d": "Paràlisis frènica"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Ascites massiva"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En els malalts diabètics que desenvolupen lesions en els peus, quina de les següents sol ser la primera alteració?",
+        "options": {
+            "b": "Debilitat en les ungles del peu que tendeixen a fer-se més primes i trencar-se",
+            "c": "Disminució de la sensibilitat",
+            "d": "Dolor que desapareix amb moviment"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Disminució de la sensibilitat"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons els criteris de classificació de l’informe de la JNC, una xifra de PA de 132/86 en un adult major de 18 anys sense tractament correspon a la categoria de:",
+        "options": {
+            "a": "Normal alta",
+            "b": "HTA de grau 2",
+            "c": "Normal",
+            "d": "HTA de grau 1"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Normal alta"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En un pacient que presenta una PAS entre 140-159 o una PAD 90-99 sense precedència de factors de risc cardiovascular. Quina recomanació i/o mesura s’han d’establir?",
+        "options": {
+            "a": "No intervenir sobre la PA.",
+            "b": "Modificar estils de vida i pautar fàrmacs.",
+            "c": "Modificar l’estil de vida durant diverses setmanes i pautar fàrmacs si la PA no es controla.",
+            "d": "Modificar l’estil de vida durant diversos mesos i pautar fàrmacs si la PA no es controla."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Modificar l’estil de vida durant diversos mesos i pautar fàrmacs si la PA no es controla."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La situació de malaltia terminal provoca reaccions emocionals diverses, en el malalt, en la família i en l’equip terapèutic. Què pot fer l’equip per tal d’evitar el burn out professional?",
+        "options": {
+            "a": "Fer rotacions en les diferents unitats",
+            "b": "Treballar de forma interdisciplinària",
+            "c": "Evitar les excessives responsabilitats",
+            "d": "Protegir-se de les demandes de les famílies"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Treballar de forma interdisciplinària"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "D'acord amb la investigació quantitativa, la selecció dels participants o subjectes d’estudi es realitza tenint en compte:",
+        "options": {
+            "a": "La mostra és flexible",
+            "b": "La unitat d’anàlisi és l’individu",
+            "c": "El mostreig és no probabilístic",
+            "d": "S’ha de calcular la mida mostral"
+        },
+        "correct": {
+            "option": "d",
+            "content": "S’ha de calcular la mida mostral"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Els objectius de recerca sempre pretenen adquirir coneixement, que més tard podrà ser aplicat per canviar situacions real. Per formular un objectiu de recerca cal utilitzar un verb d’acció que indica voluntat d’ampliar el saber. Quin dels següents verbs seria l’indicat per enunciar un objectiu d’investigació?",
+        "options": {
+            "a": "Disminuir",
+            "b": "Comparar",
+            "c": "Promoure",
+            "d": "Millorar"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Comparar"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "febre i després apareix l’exantema, primer al coll i després a tot el cos, excepte a la palma i a la planta del peu, s’anomena:",
+        "options": {
+            "a": "Rubèola",
+            "b": "Escarlatina",
+            "c": "Impetigen",
+            "d": "Xarrampió"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Escarlatina"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents vies d’administració dels medicaments té com a INCONVENIENT absorció erràtica i la necessitat de dosis més altes per aconseguir el mateix efecte:",
+        "options": {
+            "a": "Intravenosa",
+            "b": "Ocular",
+            "c": "Otica",
+            "d": "Rectal"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Rectal"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents és una recomanació adient per facilitar la valoració d’un/a adolescent a la consulta infermera?",
+        "options": {
+            "a": "Fer tota l’entrevista amb presència dels pares per donar-li confiança",
+            "b": "Conèixer els esdeveniments, les modes, les novetats, etc. Que són rellevants a la seva edat.",
+            "c": "Donar a l’entrevista una aire informal, com si estiguessis parlat amb un company",
+            "d": "Entrar des del principi a la entrevista en temes personals i íntims, afavorint la naturalitat-"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Conèixer els esdeveniments, les modes, les novetats, etc. Que són rellevants a la seva edat."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En la interacció dins la relació assistencial, un dels aspectes que es relaciona amb l’enquadrament extern és:",
+        "options": {
+            "a": "Tot allò que ens permet entendre la subjectivitat del pacient",
+            "b": "Actitud receptiva i tolerant davant del patiment aliè",
+            "c": "La contenció dels propis conflictes i problemes",
+            "d": "El respecte a la privacitat i confidencialitat de la informació que et dona el pacient."
+        },
+        "correct": {
+            "option": "d",
+            "content": "El respecte a la privacitat i confidencialitat de la informació que et dona el pacient."
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents escales s’utilitza per al diagnòstic diferencial entre la malaltia d’Alzheimer i la demència vascular multiinfàrtica?",
+        "options": {
+            "a": "D’Hachinski",
+            "b": "Hamilton",
+            "c": "Goldberg",
+            "d": "Global Deterioration Sclale de Reisberg"
+        },
+        "correct": {
+            "option": "a",
+            "content": "D’Hachinski"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La vacuna hexavalent que s’administra en els primer mesos de vida, inclou entre altres immunització contra:",
+        "options": {
+            "a": "L’Hepatitis A",
+            "b": "La Rubèola",
+            "c": "El Xarampió",
+            "d": "L’Hepatitis B"
+        },
+        "correct": {
+            "option": "d",
+            "content": "L’Hepatitis B"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les recomanacions per el consell antitabàquic és oferir ajut per deixar de fumar. Per aquesta ajuda específica, quina de les següents pautes NO s’ha de tenir en compte?",
+        "options": {
+            "a": "cc. Motivació del fumador",
+            "b": "Data per deixar de fumar",
+            "c": "Nivells de dependència psicològica",
+            "d": "Nivells d’independència física"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Nivells d’independència física"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats, forma part de les etapes per a l’elaboració d’una guia de pràctica clínica?",
+        "options": {
+            "a": "ww.Selecció d’una condició o problema",
+            "b": "Revisió externa",
+            "c": "Prova pilot",
+            "d": "Totes són certes"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Revisió externa"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents NO és una característica d’un Assaig Clínic Controlat Aleatori? aaa.S’administra una intervenció",
+        "options": {
+            "a": "Existeix un grup experimental",
+            "b": "El grup control rep la intervenció que s’està provant",
+            "c": "a.\tEs fa un seguiment dels dos grups per observar diferències en els resultats de la intervenció",
+            "d": "De les següents bases de dades bibliogràfiques, quina és una base temàtica? eee.Medline"
+        },
+        "correct": {
+            "option": "b",
+            "content": "El grup control rep la intervenció que s’està provant"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En els següents objectius a curt termini: “El Senyor Mir caminarà fins el seu dormitori amb un caminador”. Quin element manca?",
+        "options": {
+            "a": "iii. El subjecte",
+            "b": "El criteri",
+            "c": "El verb",
+            "d": "a.\tEl moment específic"
+        },
+        "correct": {
+            "option": "d",
+            "content": "a.\tEl moment específic"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats formen part de l’etapa d’execució del procés d’atenció d’infermeria?",
+        "options": {
+            "d": "qqq.\tRegistrar les cures realitzades"
+        },
+        "correct": {
+            "option": "d",
+            "content": "qqq.\tRegistrar les cures realitzades"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre els continguts d’una visita de seguiment d’infermeria a un pacient diabètic, figura la higiene bucal. E n quina fase s’inclou?",
+        "options": {
+            "a": "i.\tAnamnesi",
+            "b": "Exploració",
+            "c": "Avaluació",
+            "d": "Pla d’actuació"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Exploració"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L a cardiopatia isquèmica, és una complicació crònica de les persones diabètiques que es pot classificar com:",
+        "options": {
+            "a": "m. Microangiopàtica",
+            "b": "Neuropàtica",
+            "c": "Macroangiopàtica",
+            "d": "Les respostes b i c són certes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Macroangiopàtica"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quan s’inicia en un adult una insulinització en una sola dosis nocturna, cal començar amb una dosi de kg/dia:",
+        "options": {
+            "a": "0.1-0.2 UI",
+            "b": "0.2-0.4 UI",
+            "c": "0.3-0.5 UI",
+            "d": "0.5-1 UI"
+        },
+        "correct": {
+            "option": "a",
+            "content": "0.1-0.2 UI"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A Sr R.C. el metge li ha prescrit, recentment, ttmt per a la seva malaltia. Avui a la consulta de la infermera, li explica que té una tos seca i persistent i que nota alteracions en el gust d’alguns aliments. A quin tipus de fàrmac es pot atribuir aquests afectes?",
+        "options": {
+            "b": "Inhibidors de l’enzim conversiu de l’angiotensina (IECA)",
+            "c": "Diürètics tiazídics",
+            "d": "Antiinflamatoris no esteroïdals (AINE)"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Inhibidors de l’enzim conversiu de l’angiotensina (IECA)"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina és l’exploració complementària imprescindible per el diagnòstic de la Malaltia Pulmonar Obstructiva Crònica (MPOC)?",
+        "options": {
+            "a": "Broncoscòpia",
+            "b": "Espirometria forçada",
+            "c": "TAC toràcic",
+            "d": "Registre del flux aspiratori màxim"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Espirometria forçada"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El Sr. H.R. acudeix a la consulta d’infermeria, i en prendre la TA, trobem que està a 158/94. Abans sempre havia estat normotens. Quina seria l’actuació correcta de la infermera?",
+        "options": {
+            "a": "Derivar-lo a la consulta del metge",
+            "b": "Realitzar dues noves preses de TA en un termini màxim de 2 mesos",
+            "c": "Recomanar-li dieta hiposòdica i que begui almenys 2L d’aigua al dia",
+            "d": "No cal fer res, ja que sens dubte es tracte de la HTA de bata blanca."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Realitzar dues noves preses de TA en un termini màxim de 2 mesos"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "E l Sr P.G. , és un malalt en fase terminal atès al seu domicili que es queixa que té la boca seca. Quina de les següents recomanacions NO seria correcta que li fes la infermera?",
+        "options": {
+            "a": "Convé que mastegui trossos de pinya per estimular la salivació",
+            "b": "Ha de beure freqüentment glops d’aigua i altres líquids",
+            "c": "Ha de fer glopeigs amb aigua oxigenada al 7.5%",
+            "d": "És recomanable l’ús , cada 2-3h, de saliva artificial"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Ha de fer glopeigs amb aigua oxigenada al 7.5%"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "La situació de malaltia terminal provoca reaccions emocionals diverses, en el malalt, en la família i en l’equip terapèutic. Què pot fer l’equip per tal d’evitar el burn out professional?",
+        "options": {
+            "a": "Protegir-se de les demandes de les famílies",
+            "b": "Evitar les excessives responsabilitats",
+            "c": "Fer rotacions en les diferents unitats",
+            "d": "Treballar de forma interdisciplinària"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Treballar de forma interdisciplinària"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "L Sra C.R., és una persona gran, que viu sola. Per tal d’avaluar el grau d’independència a les activitats de la vida diària, la infermera li aplica l’escala de Barthel. A",
+        "options": {
+            "a": "l’apartat referit al caminar, la Sra C.R. obté una puntuació de 10. Què significa aquesta puntuació?",
+            "b": "És autònoma",
+            "c": "Necessita ajuda o supervisió",
+            "d": "Necessita una cadira de rodes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Necessita ajuda o supervisió"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les principals recomanacions que pot fer la infermera a l’ancià respecte a la necessitat de vestir-se és:",
+        "options": {
+            "a": "Vestir-se segons la moda",
+            "b": "Rentar la roba amb productes especials",
+            "c": "Aconsellar l’ús de roba feta amb teixits naturals",
+            "d": "Utilitzar calçat esportiu"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Aconsellar l’ús de roba feta amb teixits naturals"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Una de les recomanacions dietètiques que hauria de fer la infermera a l’ancià per afavorir la seva independència en la necessitat de menjar i beure és:",
+        "options": {
+            "a": "Evitar afegir condiments als menjars",
+            "b": "Realitzar 6 àpats fragmentats al llarg del dia",
+            "c": "Prendre regularment un complex vitamínic",
+            "d": "Ingerir entre 1500-2000 cc de líquid el dia"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Ingerir entre 1500-2000 cc de líquid el dia"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Quina de les següents activitats NO correspon a la fase resolutiva d’una entrevista semiestructurada?",
+        "options": {
+            "a": "Informar al pacient de la naturalesa del problema",
+            "b": "Comprovar que el pacient ha antes les explicacions",
+            "c": "Explorar creences i expectatives",
+            "d": "Implicar al pacient en l’elaboració d’un pla diagnòstic- terapèutic"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Informar al pacient de la naturalesa del problema"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "A l’entrevista clínica s’utilitzen tècniques per afavorir la comunicació i el contacte emocional amb el pacient. Quina de les següents tècniques pretén que el pacient doni un sentit a les seves explicacions?",
+        "options": {
+            "a": "Les frases de repetició",
+            "b": "La clarificació",
+            "c": "L’assenyalament",
+            "d": "La contenció"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La clarificació"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Entre els consells fonamentals sobre la hipoglicèmia, assenyala l’opció correcta que recomanaries al Sr Sirerol:",
+        "options": {
+            "a": "Realitzar una activitat física diària constant",
+            "b": "Si augmenta l’exercici habitual: ingerir prèviament un suplement d’hidrats de carboni",
+            "c": "No oblidar el suplement dietètic abans d’anar a dormir",
+            "d": "Tots els consells anteriors són correctes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Tots els consells anteriors són correctes"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "En explicar la dieta al Sr Sirerol, es tractarà de reduir la quantitat ingerida d’hidrats de carboni. Se li explicaran les equivalències bàsiques. Així doncs 20 g de pa, per quin aliment es pot canviar.",
+        "options": {
+            "a": "20 g de cigrons",
+            "b": "30 g d’arròs",
+            "c": "40 g de llenties",
+            "d": "100 g de patates"
+        },
+        "correct": {
+            "option": "a",
+            "content": "20 g de cigrons"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons la determinació de glicèmia realitzada a la consulta i els criteris de control de la DM2, es considera que el Sr Sirerol presenta un control de la malaltia:",
+        "options": {
+            "a": "Bo",
+            "b": "Acceptable",
+            "c": "Regular",
+            "d": "Deficient"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Deficient"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "Segons el programa de seguiment del nen sa, quina de les següents activitats no caldrà realitzar en visitar a la Laia?",
+        "options": {
+            "a": "Maniobra d’Ortolani",
+            "b": "Test d’agudesa visual",
+            "c": "Exploració de l’aparell genitourinari",
+            "d": "Exploració de la dentició"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Maniobra d’Ortolani"
+        }
+    },
+    {
+        "topic": "Lote examen 2022",
+        "question": "El procés d’otitis provoca que se li hagi d’administrar Ibuprofè v.o. Quina de les següents dosis serà més adequada?",
+        "options": {
+            "a": "100 mg c/ 6h",
+            "b": "140 mg c/ 8h",
+            "c": "200 mg c/ 6h",
+            "d": "250 mg c/ 6h"
+        },
+        "correct": {
+            "option": "c",
+            "content": "200 mg c/ 6h"
+        }
+    }
+]
