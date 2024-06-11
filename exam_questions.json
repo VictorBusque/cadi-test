@@ -1,0 +1,2395 @@
+[
+    {
+        "topic": "Infància",
+        "question": "En Pau és un noi de 13 anys que presenta un calendari vacunal complet fins al moment. Segons el calendari de vacunacions sistemàtiques de la Generalitat de Catalunya, quina és la vacuna següent que cal administrar-li?",
+        "options": {
+            "a": "Varicel·la",
+            "b": "Triple vírica",
+            "c": "Hepatitis B",
+            "d": "Td tipus adult"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Td tipus adult"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "A partir de quina edat el/la lactant es manté assegut de manera estable?",
+        "options": {
+            "a": "De 3 a 6 mesos",
+            "b": "De 7 a 9 mesos",
+            "c": "De 10 a 12 mesos",
+            "d": "Més d’un any"
+        },
+        "correct": {
+            "option": "b",
+            "content": "De 7 a 9 mesos"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Per què es recomana evitar la mel en infants més petits de 12 mesos?",
+        "options": {
+            "a": "Pel risc d’intoxicació alimentària per botulisme.",
+            "b": "Per excés de sucre.",
+            "c": "Perquè pot produir al·lèrgies durant el primer any de vida.",
+            "d": "A partir dels sis mesos se'ls pot donar mel però en petites quantitats"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Pel risc d’intoxicació alimentària per botulisme."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "L’Anna és una nena de 6 mesos que comença a prendre biberó. Quines recomanacions donaries als seus pares?",
+        "options": {
+            "a": "L’aigua de preparació sempre s’ha de bullir almenys 10 minuts",
+            "b": "Es pot guardar la llet que sobra del biberó",
+            "c": "La concentració de llet adequada és una cullerada rasa (5g) per cada 30 cc d’aigua",
+            "d": "Si la nena no menja gaire, és recomanable donar-li un biberó quan dormi"
+        },
+        "correct": {
+            "option": "c",
+            "content": "La concentració de llet adequada és una cullerada rasa (5g) per cada 30 cc d’aigua."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Quin dels consells següents sobre prevenció d’accidents és més apropiat donar als pares d’una nena de 10 anys?",
+        "options": {
+            "a": "Evitar que manipuli objectes amb peces petites",
+            "b": "Utilitzar el casc quan vagi amb bicicleta",
+            "c": "No donar-li fruits secs per perill d’ennuegaments",
+            "d": "Protegir el llit amb baranes"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Utilitzar el casc quan vagi amb bicicleta"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "L’acoblament inadequat de la boca del nen al pit matern pot produir problemes en la lactància. Quin és el problema més freqüent?",
+        "options": {
+            "a": "La mastitis",
+            "b": "Les clivelles",
+            "c": "La retirada de la llet",
+            "d": "El mugró retràctil"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Les clivelles"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Amb quina vacuna cal tenir precaució en nens que pateixen al·lèrgia a les proteïnes d’ou de pollastre?",
+        "options": {
+            "a": "6 mesos.",
+            "b": "9 mesos.",
+            "c": "10 mesos.",
+            "d": "12 mesos."
+        },
+        "correct": {
+            "option": "c",
+            "content": "La vacuna triple vírica es comercialitza en dos presentacions: una feta amb embrió de pollastre (que és la més difosa en el nostre entorn) i una altra que no."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Quina de les següents activitats del Protocol d'activitats preventives i de promoció de la salut a l'edat pediàtrica és una activitat de cribratge?",
+        "options": {
+            "a": "Les vacunacions.",
+            "b": "Els consells sobre l'alimentació.",
+            "c": "La prevenció d'accidents.",
+            "d": "La mesura del creixement."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Les activitats de cribratge són activitats de prevenció secundària que estan dirigides a detectar alteracions el més aviat possible, l'única activitat anomenada que té aquesta intenció és la mesura del creixement. Les altres activitats que s'esmenten: les vacunacions, els consells sobre la prevenció d'accidents i l'alimentació són activitats de prevenció primària i la seva funció no és detectar alteracions."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Quines verdures es recomanen evitar, pel seu contingut en nitrats, fins als 12 mesos?",
+        "options": {
+            "a": "La pastanaga",
+            "b": "El carbassó",
+            "c": "Espinacs i bledes",
+            "d": "Mongetes tendres"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Cal evitar els espinacs i les bledes abans dels 12 mesos (i si se'n donen, que no siguin més de 35g al dia) pel seu contingut en nitrats. A partir de l'any i fins als 3 anys, cal que aquestes hortalisses no suposin més de 45 grams al dia. Si l’infant pateix una infecció bacteriana gastrointestinal, s'han d’evitar aquestes dues hortalisses."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "En Carles se li ha d'administrar la vacuna triple vírica. Quina informació ha de donar la infermera als pares d'en Carles sobre les possibles reaccions vacunals?",
+        "options": {
+            "a": "És una vacuna que mai fa cap reacció",
+            "b": "Pot tenir febre a les 24-48 hores",
+            "c": "Pot tenir febre i malestar general als 7-10 dies",
+            "d": "La febre postvacunal no es tracta mai amb antitèrmics"
+        },
+        "correct": {
+            "option": "c",
+            "content": "La vacuna triple vírica és atenuada i en cas que produeixi reacció vacunal és als 7-10 dies. Totes les vacunes poden donar reaccions. En cas de febre cal donar antitèrmics."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Amb la recollida de dades generals de la història clínica informatitzada es recullen:",
+        "options": {
+            "a": "Dades sobre antecedents neonatals",
+            "b": "Arbre de família d'origen i nucli de convivència",
+            "c": "Hàbits familiars",
+            "d": "Totes són certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes són certes"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "En la valoració dels resultats de la Taula de desenvolupament psicomotor Llevant, es considera que un nen és de risc quan:",
+        "options": {
+            "a": "La suma de les estrelles dels ítems errats en una àrea és igual o superior a dos",
+            "b": "La suma d’estrelles dels ítems errats en les quatre àrees és igual o superior a quatre",
+            "c": "Es detecta un signe d'alarma",
+            "d": "No realitza adequadament dos ítems de les quatre àrees"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Es detecta un signe d'alarma"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Segons la Taula de desenvolupament psicomotor. Quina de les següents troballes es considera un signe d'alerta a qualsevol edat?",
+        "options": {
+            "a": "El dit polze adduït.",
+            "b": "El sobresalt exagerat.",
+            "c": "La hipertònia d'abductors.",
+            "d": "Els moviments oculars anormals."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Segons la Taula de desenvolupament psicomotor, els moviments oculars anormals es consideren un signe d'alerta a qualsevol edat. Les altres troballes es consideren un signe d'alerta a partir d'una determinada edat: el dit polze adduït i el sobresalt exagerat a partir dels 2 mesos i l'hipertònia d'abductors a partir dels 4 mesos."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "En la mainada menor de 10 anys, dones embarassades i que alletin cal evitar el consum de peix espasa, emperador, caçó o mussola, marraix, agullat, gat, tintorera, luci i tonyina. En infants de 10 a 14 anys quina quantitat es recomana?",
+        "options": {
+            "a": "En infants de 10 a 14 anys, limitar-lo a 120 g/mes pel seu contingut en mercuri.",
+            "b": "No es recomana fins als 6 anys.",
+            "c": "A partir dels 3 anys limitar-la a 30-40 grams al dia.",
+            "d": "A partir dels 3 anys, si es peix blanc 30-40 grams dia, si es peix blau de 20-30 grams setmana."
+        },
+        "correct": {
+            "option": "a",
+            "content": "En infants de 10 a 14 anys, limitar-lo a 120 g/mes pel seu contingut en mercuri. També convé evitar les conserves de tonyina en llauna. Es poden consumir espècies de peix blau de proximitat i pesca sostenible, garantint l'absència d'espines (verat, sorell, sardina, seitó, moll de roca...)."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Quina és la zona adequada per administrar la vacuna DTPa-PI a una nena de sis anys?",
+        "options": {
+            "a": "Vast extern",
+            "b": "Deltoide",
+            "c": "Gluti major",
+            "d": "Gluti menor"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Deltoide"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "Les necessitats nutricionals de la mare que alleta el seu fill són diferents a les d'altres etapes de la seva vida. Quina de les recomanacions alimentàries següents és la més encertada per a aquesta mare?",
+        "options": {
+            "a": "Disminuir la ingesta de líquids a 750 cc al dia.",
+            "b": "Augmentar la ingesta de làctics.",
+            "c": "Ingerir un màxim de dues racions de fruita al dia.",
+            "d": "Utilitzar l’all per condimentar els menjars."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Augmentar la ingesta de làctics."
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "En quina de les següents situacions està indicat administrar la vacuna de la varicel·la segons el calendari vigent de vacunes sistemàtiques a Catalunya?",
+        "options": {
+            "a": "A tots els nens de 9 mesos",
+            "b": "Només en infants immunodeprimits",
+            "c": "Al calendari vigent de Catalunya es posa una dosis de vacuna de varicel·la als 15 mesos i altre als 3 anys de vida",
+            "d": "Actualment no és una vacuna disponible a Catalunya"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Al calendari vigent de Catalunya es posa una dosis de vacuna de varicel·la als 15 mesos i altre als 3 anys de vida"
+        }
+    },
+    {
+        "topic": "Infància",
+        "question": "En la prevenció dels accidents infantils:",
+        "options": {
+            "a": "L'edat de l'infant no és important",
+            "b": "La majoria d'accidents en els més petits succeeixen fora de casa",
+            "c": "A la llar l'espai més perillós és la cuina",
+            "d": "El dispositiu de retenció del cotxe és independent de la talla i el pes del nen"
+        },
+        "correct": {
+            "option": "c",
+            "content": "A la llar l'espai més perillós és la cuina"
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quins són criteris diagnòstics de l'anorèxia nerviosa?",
+        "options": {
+            "a": "L'agudesa visual s'assoleix al 100% entre els 8 i el 9 anys d'edat",
+            "b": "S'explora amb optotips esquemàtics amb dibuixos fins als 8 anys",
+            "c": "El test d'Ishihara explora la visió cromàtica",
+            "d": "Segons el Protocol d'activitats preventives i de promoció de la salut a l'edat pediàtrica, el cribratge de l'agudesa visual es comença als 6 anys d'edat"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes són certes."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Respecte als adolescents, assenyala la certa",
+        "options": {
+            "a": "La utilització dels serveis sanitaris per part dels adolescents es caracteritza per una alta freqüentació",
+            "b": "Els adolescents presenten una alta prevalença de malalties",
+            "c": "L'escola és l'entorn ideal per dur a terme actuacions de promoció d'hàbits de vida saludable",
+            "d": "A l'adolescència els canvis físics i els psicosocials solen anar equilibrats"
+        },
+        "correct": {
+            "option": "c",
+            "content": "L'escola és l'entorn ideal per dur a terme actuacions de promoció d'hàbits de vida saludable"
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "A quina de les següents malalties exantemàtiques correspon aquesta descripció: s'inicia amb simptomatologia catarral amb febre alta; l'exantema és maculopapulós i hi ha la presència patognomònica de les taques de Köplik. L'erupció s'inicia a la cara i va baixant per tot el cos.",
+        "options": {
+            "a": "Rubèola.",
+            "b": "Varicel·la.",
+            "c": "Xarampió.",
+            "d": "Síndrome boca – mà – peu."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Les característiques que es descriuen en l'enunciat es corresponen a les del xarampió."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Respecte la construcció de la personalitat de l'adolescent, quina de les següents afirmacions és falsa?",
+        "options": {
+            "a": "En la construcció de la personalitat sols intervenen els aspectes emocionals.",
+            "b": "Les influències socioculturals intervenen en la construcció de la personalitat.",
+            "c": "L'autoconcepte és el conjunt de percepcions, idees que cadascú té de si mateix.",
+            "d": "En aquesta etapa l'autoimatge té una importància molt rellevant."
+        },
+        "correct": {
+            "option": "a",
+            "content": "En la construcció de la personalitat intervenen els canvis cognitius (pensament i raonament), els aspectes emocionals i les influències socioculturals. L’autoconcepte, l’autoestima i l'autoimatge corporal formen part de la personalitat de l’adolescent."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina de les següents afirmacions respecte la hipertensió arterial a la infància i l’adolescència és falsa?",
+        "options": {
+            "a": "Amb el cribratge de la HTA es pretén detectar els nens amb risc d’hipertensió a l’edat adulta.",
+            "b": "Els nens i nenes amb risc s’han de controlar cada 2 anys.",
+            "c": "Els nens fills de pare o mare amb HTA en tractament estan considerats de risc.",
+            "d": "Segons el Protocol d’activitats preventives i de promoció de la salut a l’edat pediàtrica la presa de la TA es recomana a la visita dels 8 anys."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Els nens i nenes amb risc s’han de controlar cada any en el centre d’atenció primària."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina recomanació per a la prevenció de l'obesitat no ha de donar la infermera, als pares d’un nen de 4 anys?",
+        "options": {
+            "a": "Observar els canvis de conducta que poden indicar algun trastorn de comportament alimentari",
+            "b": "Fomentar que els pares tinguin una alimentació saludable",
+            "c": "No utilitzar els aliments per calmar el nen o la nena",
+            "d": "Respectar els canvis de gana"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Recomanar als pares que observin els possibles canvis de conducta que poden indicar algun trastorn de comportament alimentari, s’aconsella a partir que el nen/a té 7 anys."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Respecte a l'entrevista amb l’adolescent, assenyala la resposta falsa.",
+        "options": {
+            "a": "Per poder dur a terme l'entrevista correctament cal tenir present diferents fases: l'acollida, l'exploració, la valoració i la resolució",
+            "b": "És important no utilitzar l'argot juvenil ni els tecnicismes",
+            "c": "En la fase d’exploració és útil utilitzar l’acrònim FACTORES",
+            "d": "Per afavorir el canvi de conducta és important insistir en efectes a llarg termini"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Per afavorir el canvi de conducta en el adolescent és important insistir en efectes a curt termini. L'entrevista ha de tenir diferents fases: acollida, exploració, valoració i resolució. S'ha d'utilitzar un llenguatge clar i entenedor, mai tecnicismes o argot juvenil. L'acrònim FACTORES és útil per poder explorar relacions, conductes i factors de risc del jove amb ordre.\nNo estic segur de la resposta correcta."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina de les següents mesures està contraindicada per disminuir la febre?",
+        "options": {
+            "a": "El nombre de vòmits realitzats",
+            "b": "La valoració de Fortin i Parent",
+            "c": "La taula de Woods-Downes",
+            "d": "L’escala de Yale Observation Scale (YOS)"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Està desaconsellat aplicar compreses d’alcohol atès el risc d’intoxicació per inhalació del producte. La resta de mesures són adequades."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina de les següents activitats no està proposada en el Protocol d’activitats preventives i de promoció de la salut a l’edat pediàtrica per a la visita dels 8 anys?",
+        "options": {
+            "a": "Desenvolupament físic: pes, talla, índex massa muscular (IMC) i desenvolupament puberal",
+            "b": "Oftalmologia: descartar leucocoria",
+            "c": "Aparell locomotor: descartar escoliosi juvenil",
+            "d": "Tensió arterial"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La leucocoria s’ha de descartar abans dels 2 anys. A 8 anys s’explora l’agudesa visual. La resta de respostes són característiques de la visita dels 8 anys."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina de les següents característiques corresponen a un escolar entre sis i deu anys?",
+        "options": {
+            "a": "Encara depèn fortament dels pares.",
+            "b": "Pensa abans d’actuar.",
+            "c": "És incapaç de sotmetre’s a regles comunes.",
+            "d": "Creix el sentit de la individualitat."
+        },
+        "correct": {
+            "option": "b",
+            "content": "En aquesta edat el nen o la nena és més independent i no depèn tant dels pares, se sotmet progressivament a normes comunes i pensa abans d’actuar. El creixement del sentit de la individualitat es produeix més endavant en fases avançades de l’adolescència."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quin dels següents signes es valora en una nena segons els estadis puberals de Tanner?",
+        "options": {
+            "a": "Grau de maduració dels ovaris.",
+            "b": "Presència de borrissol axil·lar.",
+            "c": "Eixamplament de la pelvis.",
+            "d": "Presència de botó mamari."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Per determinar en quin estadi de Tanner es troba una nena es valora el desenvolupament mamari i el borrissol pubià. La presència de borrissol axil·lar no es valora per establir en quin estadi està la nena, sinó com a signe secundari en el desenvolupament puberal, però no en els estadis de Tanner."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quina de les següents capacitats s’assoleix amb el pensament formal?",
+        "options": {
+            "a": "Cal saber la talla del pare i la mare.",
+            "b": "Hi ha diverses formes de calcular-la.",
+            "c": "Es tracta d’una dada aproximada subjecta a canvis.",
+            "d": "La fórmula de càlcul és idèntica per nens i nenes."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Les capacitats que s’assoleixen amb el pensament formal permeten passar del pla de la manipulació concreta al de les idees, és per això que poden acceptar o no certs valors. Les altres respostes estan més relacionades amb les habilitats que s’adquireixen en l’etapa preescolar i els primers temps de l’etapa escolar on el joc imaginatiu, el dibuix o la comprensió d’ordres formen part de les coses concretes i tangibles."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Quin dels següents consells sobre higiene dental és més adequat per a un nen de 7 anys?",
+        "options": {
+            "a": "Introduir el fluor en glopeigs.",
+            "b": "Que els pares raspallin les dents del nen després de cada àpat.",
+            "c": "Introduir el fluor sistèmic.",
+            "d": "Utilitzar fil dental."
+        },
+        "correct": {
+            "option": "a",
+            "content": "La introducció dels glopeigs de fluor es recomana a partir dels 6 anys. En aquesta edat els nens ja tenen prou capacitat motora per raspallar-se les dents amb eficàcia. Cal també donar consells sobre llaminadures i aliments cariògens. El biberó s'ha d'evitar a partir dels 2 anys i el xumet s'ha d'evitar més enllà dels 3 o 4 anys."
+        }
+    },
+    {
+        "topic": "Adolescència",
+        "question": "Respecte a les anomalies de la columna vertebral, és cert que l'escoliosi:",
+        "options": {
+            "a": "Estructurada es corregeix en col·locar el nen en decúbit.",
+            "b": "Estructurada es classifica en dos grups: idiopàtica i paralítica.",
+            "c": "Postural és una posició de la columna, no una deformitat.",
+            "d": "És una curvatura anormal amb prominència dorsal de la columna vertebral."
+        },
+        "correct": {
+            "option": "c",
+            "content": "L'escoliosi postural o actitud escoliòtica és una posició de la columna no una deformitat que es corregeix en decúbit. L'escoliosi estructurada es classifica en tres grups: idiopàtica, genètica i paralítica. La curvatura anormal dorsal de la columna és una cifosi."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "El patró percepció-maneig de la salut inclou:",
+        "options": {
+            "a": "La valoració de les activitats de la vida quotidiana.",
+            "b": "Les pràctiques preventives relacionades amb els cribatges que la persona desenvolupa.",
+            "c": "La percepció de les opcions d’autocures en situacions de dependència.",
+            "d": "L’autopercepció de benestar i les conductes de promoció de la salut que realitza la persona."
+        },
+        "correct": {
+            "option": "d",
+            "content": "L’autopercepció de benestar i les conductes de promoció de la salut que realitza la persona."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Un dels factors que poden contribuir a la disfuncionalitat del patró activitat-exercici en les persones grans és:",
+        "options": {
+            "a": "Els canvis sensorials visuals i auditius, que poden limitar la capacitat de moviment.",
+            "b": "La alimentació amb un alt contingut de hidrats de carboni.",
+            "c": "La percepció inadequada de l’estat de salut, que facilita una autopercepció negativa.",
+            "d": "El haver realitzat activitat física de forma habitual en el passat."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Els canvis sensorials visuals i auditius, que poden limitar la capacitat de moviment."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "La valoració de l’ancià ha de partir de la seva individualitat i, per tant, ha de considerar:",
+        "options": {
+            "a": "Les principals patologies.",
+            "b": "La història de vida.",
+            "c": "La vivència que l’ancià té respecte de la malaltia.",
+            "d": "Les dades que s’obté de la valoració física"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La història de vida."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "La valoració dels Patrons Funcionals de Salut:",
+        "options": {
+            "a": "Forma part de la valoració focalitzada, que permet tenir una idea general de la situació de salut de la persona.",
+            "b": "Constitueix el sistema de valoració de les necessitats de la persona, en relació a la seva funcionalitat.",
+            "c": "És un sistema d’identificació de problemes subjectius, que permet avaluar la capacitat d’autocura.",
+            "d": "Constitueix informació actual i passada obtinguda de la persona, que ajuda a identificar estils de vida i a detectar disfuncionalitats."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Constitueix informació actual i passada obtinguda de la persona, que ajuda a identificar estils de vida i a detectar disfuncionalitats."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Un dels aspectes relacionats amb l'envelliment i la salut en les noves generacions de persones grans és que:",
+        "options": {
+            "a": "Les persones grans veuen amb grans dificultats aquesta etapa de les seves vides.",
+            "b": "Les relacions intergeneracionals contribueixen a l'envelliment actiu i al manteniment de la salut.",
+            "c": "Mantenir relacions afectives positives es torna un aspecte de menor importància.",
+            "d": "La jubilació es vista com una pèrdua de la capacitat econòmica i limitadora per a la salut física."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Les relacions intergeneracionals contribueixen a l'envelliment actiu i al manteniment de la salut."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Un dels factors que poden afectar el patró nutricional-metabòlic durant la vellesa és:",
+        "options": {
+            "a": "La capacitat de raonament crític sobre la fisiologia humana.",
+            "b": "La percepció de propi estat de salut física.",
+            "c": "El significat que té el menjar i beure per a la persona.",
+            "d": "La pertinença a un grup d’oci."
+        },
+        "correct": {
+            "option": "c",
+            "content": "El significat que té el menjar i beure per a la persona."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Un dels beneficis de l'activitat física realitzada de forma habitual:",
+        "options": {
+            "a": "Una forma metòdica de procedir per prendre decisions encertades en cada situació de cures.",
+            "b": "Un mètode de treball basat en la intuïció.",
+            "c": "L'activitat que desenvolupa la infermera quan determina els problemes de l'ancià.",
+            "d": "La relació d’ajuda que estableix la infermera amb l'ancià."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Contribueix a l'envelliment saludable i al manteniment de la qualitat de vida."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Integrar la persona anciana en la seva història de vida:",
+        "options": {
+            "a": "Afavoreix unes cures gerontològiques de qualitat, ja que es té millor coneixement de la persona.",
+            "b": "Aporta informació útil només per al coneixement dels aspectes socials de l'ancià.",
+            "c": "Proporciona informació que cal contrastar amb la família de l'ancià i amb els altres professionals.",
+            "d": "Té com objectiu detectar les insatisfaccions que ha tingut l'ancià durant la seva vida."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Afavoreix unes cures gerontològiques de qualitat, ja que es té millor coneixement de la persona."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "El patró cognitiu-perceptual pot estar afectat pels canvis propis de l'envelliment com:",
+        "options": {
+            "a": "L'objectiu de la valoració de les formes d'eliminació corporal.",
+            "b": "La capacitat de fer un nombre determinat de deposicions.",
+            "c": "La funció metabòlica de l'organisme.",
+            "d": "La funció excretora incloent-hi la regularitat i els canvis."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Els canvis en els òrgans dels sentits, ja que poden afectar les habilitats per desenvolupar algunes activitats."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Durant l'etapa de l'envelliment, pel que fa al patró adaptació, la tolerància a l'estrès, la percepció d’autocontrol i d’autonomia contribueix a que les persones:",
+        "options": {
+            "a": "Una millor percepció de salut i estiguin més motivades per mantenir-se actives.",
+            "b": "Una disminució de la capacitat d’adaptació als esdeveniments de la seva vida.",
+            "c": "Situacions de conflicte interpersonal quan la persona es jubila.",
+            "d": "Mantinguin un patró similar de resposta davant dels esdeveniments vitals, sense adaptació als canvis."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Una millor percepció de salut i estiguin més motivades per mantenir-se actives."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Per avaluar l'estat de salut de les persones cal tenir en compte:",
+        "options": {
+            "a": "L'aspecte objectiu i el subjectiu, ja que això permet identificar el problemes reals i la percepció personal.",
+            "b": "L'aspecte individual i col·lectiu, ja que això ajuda a diagnosticar millor la persona.",
+            "c": "L'aspecte interpersonal i familiar, ja que indica el grau de deteriorament respecte de la funcionalitat.",
+            "d": "L'aspecte objectiu i de percepció, ja que intervenen en el procés de vivència de les malalties."
+        },
+        "correct": {
+            "option": "a",
+            "content": "L'aspecte objectiu i el subjectiu, ja que això permet identificar el problemes reals i la percepció personal."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "L'enfocament de l'estratègia de l'envelliment actiu es basa en:",
+        "options": {
+            "a": "Augmentar la supervivència, redistribuir els recursos i facilitar l'autonomia familiar.",
+            "b": "Promoure un envelliment adequat, analitzar els condicionants de l'entorn i vetllar per la funcionalitat.",
+            "c": "Respectar les individualitats, promoure el benestar de les persones més vulnerables i distribuir els recursos.",
+            "d": "L'equilibri entre drets i obligacions, contemplar el cicle vital i respectar la diversitat en l'envelliment."
+        },
+        "correct": {
+            "option": "d",
+            "content": "L'equilibri entre drets i obligacions, contemplar el cicle vital i respectar la diversitat en l'envelliment."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "La perspectiva salutogènica de la salut contempla que:",
+        "options": {
+            "a": "Les persones i la comunitat precisen ser orientats per professionals en tot el que es relaciona amb la salut.",
+            "b": "Les persones adquireixen estils de vida saludables quan s’adonen del que produeix l’envelliment.",
+            "c": "La comunitat és un recurs de salut si les persones contribueixen al manteniment del recursos.",
+            "d": "Les persones i la comunitat disposen dels seus propis actius de salut quan potencien els seus propis recursos."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Les persones i la comunitat disposen dels seus propis actius de salut quan potencien els seus propis recursos."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Segons el model de promoció de la salut:",
+        "options": {
+            "a": "L’autopercepció positiva contribueix a generar major recursos de resistència en les persones.",
+            "b": "Les influències interpersonals i situacionals són rellevants en el desenvolupament d’un estil de vida saludable.",
+            "c": "Les barreres per al desenvolupament de conductes saludables només influencia en les persones amb pocs recursos personals.",
+            "d": "L’autoeficàcia contribueix a desenvolupar capacitats cognitives que permeten una valoració adequada dels pros i contres d’una conducta."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Les influències interpersonals i situacionals són rellevants en el desenvolupament d’un estil de vida saludable."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "Per establir una relació de cures a una persona gran cal que la infermera:",
+        "options": {
+            "a": "Donar importància únicament a allò que diu l'ancilà.",
+            "b": "Mantenir una distància física.",
+            "c": "Observar i analitzar els comportaments no verbals.",
+            "d": "No considerar els problemes físics en un primer moment."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Observar i analitzar els comportaments no verbals."
+        }
+    },
+    {
+        "topic": "Gent Gran",
+        "question": "La relació de cures que promou un bon envelliment facilita que la persona sigui capaç de:",
+        "options": {
+            "a": "Tenir consciència de tots els processos patològics que desenvolupa al llarg de la seva vida.",
+            "b": "Disminuir l'activitat física i social per prevenir un desgast excessiu.",
+            "c": "Viure de forma satisfactòria la pròpia vida, valorant les pròpies possibilitats i recursos.",
+            "d": "Identificar el beneficis del sistema sanitari en el desenvolupament de nivells òptims de qualitat de vida."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Viure de forma satisfactòria la pròpia vida, valorant les pròpies possibilitats i recursos."
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quan una persona rebutja com a propis els sentiments hostils que li generen ansietat i els exterioritza cap a d'altres persones. Quin mecanisme de defensa està utilitzant?",
+        "options": {
+            "a": "La projecció",
+            "b": "La negació",
+            "c": "La dissociació",
+            "d": "El desplaçament"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La projecció"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quin dels següents NO sol ser un síndrome prodòmic d'una psicosi incipient?",
+        "options": {
+            "a": "Inquietud, agitació",
+            "b": "Desinterès per la cura personal",
+            "c": "Pèrdua de la memòria recent",
+            "d": "Tendència a l'aïllament social"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Pèrdua de la memòria recent"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Parlar obertament del suïcidi...",
+        "options": {
+            "a": "Ajuda a disminuir la tensió del pacient i el fa sentir més acompanyat",
+            "b": "Prevé la repetició de futures temptatives",
+            "c": "Augmenta la supervivència",
+            "d": "Totes les respostes son certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes son certes"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Per què els pacients amb Trastorn Mental Sever (TMS) tenen risc de desvinculació dels serveis de Salut Mental?",
+        "options": {
+            "a": "Abandonament del tractament farmacològic",
+            "b": "Tenen poca o cap consciència de malaltia (poc o nul insight)",
+            "c": "Pobre suport social familiar i comunitari",
+            "d": "Totes les respostes son certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes son certes"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quin dels següents NO és un factor de risc per a l'aparició d'un dol complicat?",
+        "options": {
+            "a": "Dols durant l'embaràs o el puerperi",
+            "b": "Famílies amb manca de xarxa psicosocial",
+            "c": "Dols per morts sobtades",
+            "d": "Famílies amb pocs recursos econòmics"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Famílies amb pocs recursos econòmics"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quin dels següents símptomes seria un símptoma positiu de la psicosi?",
+        "options": {
+            "a": "Associabilitat",
+            "b": "Abúlia",
+            "c": "Alògia",
+            "d": "Catatonia"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Catatonia"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quin dels següents fàrmacs precisa, per la seva toxicitat, seguiment i control de farmacovigilància?",
+        "options": {
+            "a": "Risperidona",
+            "b": "Clozapina",
+            "c": "Diazepam",
+            "d": "Aripiprazol"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Clozapina"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quin dels següents NO és un dels criteris per diagnosticar una síndrome metabòlica?",
+        "options": {
+            "a": "Sensació de \"perdre el control\"",
+            "b": "Sensació que els objectes són irreals (desrealització)",
+            "c": "Sudoració, palpitacions, tremolors",
+            "d": "Por de morir"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Freqüència cardíaca: > 80 pulsacions per minut"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "L’abordatge terapèutic per a la depressió, consisteix principalment en:",
+        "options": {
+            "a": "Les tècniques psicològiques psicodinàmiques basades en la contenció emocional",
+            "b": "Les tècniques cognitivo-conductuals d’ajuda",
+            "c": "El tractament farmacològic",
+            "d": "Totes les respostes són certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes són certes"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quins d'aquest símptoma NO és un símptoma negatiu de la psicosi?",
+        "options": {
+            "a": "Deliri",
+            "b": "Alògia",
+            "c": "Abúlia",
+            "d": "Expressió emotiva disminuïda"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Deliri"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Una de les indicacions per la derivació d'un pacient deprimit a la unitat de salut mental és la presència de:",
+        "options": {
+            "a": "Fòbies",
+            "b": "Idees de suïcidi",
+            "c": "Trastorns d'ansietat",
+            "d": "Trastorns distímics"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Idees de suïcidi"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quina de les següents afirmacions NO és un signe d’alarma propi del dol patològic?",
+        "options": {
+            "a": "La tristesa",
+            "b": "La pèrdua de vitalitat",
+            "c": "La falta de perspectives de futur",
+            "d": "La baixa autoestima"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La tristesa"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Quina de les següents tècniques que s’utilitzen en l’entrevista clínica s’utilitza per demanar al pacient que doni un sentit al que està explicant?",
+        "options": {
+            "a": "Les frases de repetició",
+            "b": "La clarificació",
+            "c": "La contenció",
+            "d": "El senyalament"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La clarificació"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "A l'entrevista semiestructurada, l'infermer/a ha d'explicar i informar al pacient els problemes detectats i acordar un pla conjunt amb ell. Com es denomina aquesta fase de l'entrevista?",
+        "options": {
+            "a": "Preliminar",
+            "b": "Exploratoria",
+            "c": "Resolutiva",
+            "d": "Final"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Resolutiva"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Davant d'una pèrdua, quina sol ser la seqüència d'etapes o moments psicològics normals per a l'elaboració del dol?",
+        "options": {
+            "a": "Ràbia, sentiment de culpa, ressentiment, negació, depressió, desesperança i acceptació.",
+            "b": "Impacte, aflicció, pena, ràbia, negació, tristesa, desesperança i acceptació.",
+            "c": "Pena, impacte, ansietat, tristesa, desesperança, rituals obsessius, ràbia i depressió.",
+            "d": "Horror, pena, protesta, ira, pèrdua d'autoestima, somatització, negació, ràbia i depressió."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Impacte, aflicció, pena, ràbia, negació, tristesa, desesperança i acceptació"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "De les diferents tècniques que estan indicades en el tractament d’un pacient ansiós, les que estan dirigides a afavorir el seu autocontrol són les:",
+        "options": {
+            "a": "Basades en la contenció",
+            "b": "De relaxació",
+            "c": "D’ajuda en la solució de problemes",
+            "d": "Ocupacionals"
+        },
+        "correct": {
+            "option": "b",
+            "content": "De relaxació"
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "Dins de les diferències clíniques entre el trastorn d’ansietat i el trastorn depressiu, quina de les següents afirmacions és la correcta?",
+        "options": {
+            "a": "Al trastorn d’ansietat predomina l’insomni tardà i al depressiu no hi ha alteració de la son.",
+            "b": "En tots dos trastorns hi ha tristesa, desesperança i anhedonisme.",
+            "c": "En tots dos hi ha signes vegetatius: palpitacions, dificultat per respirar, sensació de mareig...",
+            "d": "Al trastorn depressiu, l’estat d’ànim està centrat en el passat, mentre que al d’ansietat es centra en el futur."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Al trastorn depressiu, l’estat d’ànim està centrat en el passat, mentre que al d’ansietat es centra en el futur."
+        }
+    },
+    {
+        "topic": "Psiquiatría",
+        "question": "En l'entrevista amb un pacient ansiós, l'infermer/a ha de:",
+        "options": {
+            "a": "Diferenciar l'ansietat normal de la patològica",
+            "b": "Donar una explicació al pacient per aclarir els conceptes erronis sobre el què li passa",
+            "c": "Tenir present que els fàrmacs no sempre són necessaris",
+            "d": "Totes les respostes són certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes són certes"
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Es considera un Estat Mental d'Alt Risc (EMAR):",
+        "options": {
+            "a": "120 gr de pa i 200 de maduixes",
+            "b": "100 gr de pa i 400 gr de síndria",
+            "c": "80 gr de pa i 400 gr de meló",
+            "d": "Les respostes a i b són correctes. ✔️"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La població general amb una situació de major vulnerabilitat de desenvolupar un trastorn psicòtic"
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "En relació a les complicacions cròniques en les persones diabètiques, trieu-ne una:",
+        "options": {
+            "a": "Les persones diabètiques tenen una esperança de vida menor a la de la resta de la població.",
+            "b": "Aquestes lesions són, per norma general, reversibles i la seva causa és la hiperglucèmia.",
+            "c": "Les complicacions específiques del peu diabètic són degudes a la afectació macroangiopàtica i neuropàtica.",
+            "d": "Les complicacions macroangiopàtiques afecten els vasos de gran calibre i són les responsables de la ceguesa i la nefropatia."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Les complicacions específiques del peu diabètic són degudes a la afectació macroangiopàtica i neuropàtica."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Dintre de les recomanacions sobre alimentació al pacient diabètic, trieu-ne una:",
+        "options": {
+            "a": "Pel que fa als objectius metabòlics i al risc de malaltia cardiovascular, és més important el tipus de lípid que la quantitat total, però cal vigilar el seu consum en el diabètic obès.",
+            "b": "La fibra disminueix les pujades de la glucèmia postprandial, però influeix en l'aportament calòric, pel que la comptabilitzarem com a glúcid.",
+            "c": "Es recomanaran els aliments especials per a persones diabètiques ja que contenen menys quantitat de sucres que els aliments normals.",
+            "d": "Els aliments proteics d’origen vegetal aporten proteïnes d’un alt valor biològic i no modifiquen la glucèmia postprandial."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Pel que fa als objectius metabòlics i al risc de malaltia cardiovascular, és més important el tipus de lípid que la quantitat total, però cal vigilar el seu consum en el diabètic obès."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "En relació al tractament de la hipoglucèmia, trieu la resposta correcta:",
+        "options": {
+            "a": "Es farà per via oral i consisteix en l’administració de 10 g d’hidrats de carboni d’absorció lenta.",
+            "b": "Després de la administració oral, i un cop s’inicia la millora, cal ingerir 20 g d’hidrats de carboni d’absorció ràpida per evitar la hipoglucèmia secundària.",
+            "c": "Davant una possible hipoglucèmia, sempre s’injectarà ràpidament glucagó (1 mg per via intramuscular o subcutània) per evitar perdre la consciència.",
+            "d": "Si el pacient presenta simptomatologia i no pot comprovar la glicèmia capil·lar, aplicarà el tractament com si es tractés d’una hipoglucèmia."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Si el pacient presenta simptomatologia i no pot comprovar la glicèmia capil·lar, aplicarà el tractament com si es tractés d’una hipoglucèmia."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Respecte al got mesurador, si a un àpat li corresponen 7 unitats d'intercanvi de farinacis, aquestes es poden convertir en:",
+        "options": {
+            "a": "Plat de pasta amb 2 mesures del got mesurador + 20 gr de pa.",
+            "b": "Plat d'arròs amb 3 mesures del got mesurador + 20 gr de pa.",
+            "c": "Plat de llenties amb 3 mesures del got mesurador + 40 gr de pa.",
+            "d": "Totes són correctes."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Plat d'arròs amb 3 mesures del got mesurador + 20 gr de pa."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Una de les recomanacions bàsiques sobre la cura del peu diabètic és:",
+        "options": {
+            "a": "Les reaccions emocionals que provoca l'impacte del diagnòstic.",
+            "b": "La participació i la implicació de la família.",
+            "c": "La relació amb els professionals de la salut.",
+            "d": "Totes les anteriors respostes poden influir en la receptivitat i capacitat d'aprenentatge del pacient."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Revisar les sabates per dins amb la mà periòdicament per comprovar l’existència de possibles arrugues que alterin la pell del peu."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Quin de les següents afirmacions és correcta respecte al pla d’alimentació en la Diabetes Mellitus:",
+        "options": {
+            "a": "1 dosi de vacuna antineumocòccica polisacàrida.",
+            "b": "1 dosi de vacuna antitetànica perquè han passat 15 anys des de l'última i es recomana vacunació cada 10 anys.",
+            "c": "Vacuna triple vírica ja que no consta prèvia determinació dels anticossos per serologia.",
+            "d": "2 dosis de vacuna antineumocòccica polisacàrida separades de 5 anys"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Restringida en aliments portadors de sucres."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Reparteix 8 UI d’HC per a dinar, tenint en compte les recomanacions dels diferents grups d’aliments d’una dieta equilibrada de una persona amb diabetis:",
+        "options": {
+            "a": "1 UI de verdura, 2 UI de farinacis, 5 UI de fruita.",
+            "b": "1 UI de verdura, 5 UI de farinacis, 2 UI de fruita.",
+            "c": "4 UI de verdura, 3 UI de farinacis, 1 UI de làctics.",
+            "d": "4 UI de làctics, 1 UI de farinacis, 3 UI de fruita."
+        },
+        "correct": {
+            "option": "b",
+            "content": "1 UI de verdura, 5 UI de farinacis, 2 UI de fruita."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Segons les recomanacions que proposa la redGDPS sobre l'aportament calòric, quina de les següents indicacions recomanaries a un home de 59 anys, amb un pes de 84 kg i una talla de 1,70 m:",
+        "options": {
+            "a": "Dèficit d'energia de 600 kcal/dia respecte a la ingesta habitual.",
+            "b": "Prescripció de dieta restrictiva d'aliments rics en carbohidrats, baixos en fibra o alts en greix.",
+            "c": "Recomanació d'aportament calòric de 1.800 kcal/dia.",
+            "d": "Qualsevol de les anteriors respostes s’aconsellen en malalts amb diabetis i sobrepès o obesitat."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Qualsevol de les anteriors respostes s’aconsellen en malalts amb diabetis i sobrepès o obesitat."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "En relació amb la ingesta d'alcohol, identifica la resposta correcta:",
+        "options": {
+            "a": "La cervesa sense alcohol porta menys hidrats de carboni que la cervesa amb alcohol.",
+            "b": "L'alcohol aporta 7 kcal/g, a més del sucre que s'afegeix a algunes begudes alcohòliques.",
+            "c": "Es recomana limitar-ne la ingesta ja que pot produir hiperglucèmies.",
+            "d": "Totes són correctes."
+        },
+        "correct": {
+            "option": "b",
+            "content": "L'alcohol aporta 7 kcal/g, a més del sucre que s'afegeix a algunes begudes alcohòliques."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Segons la American Diabetes Association (ADA), els criteris de cribratge de la Diabetes Mellitus són:",
+        "options": {
+            "a": "En persones adultes asimptomàtiques de qualsevol edat amb IMC ≥ 25 kg/m2 i amb un o més factors de risc per desenvolupar diabetis.",
+            "b": "En persones sense factors de risc es començarà als 45 anys.",
+            "c": "Quan el resultat del cribratge sigui normal, es repetirà al menys cada tres anys i cada any en cas de prediabetis.",
+            "d": "Totes són correctes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes són correctes."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Segons els criteris diagnòstics de Diabetis Mellitus i alteracions de la glucosa de la American Diabetes Association (ADA) i el Consens Espanyol de Prediabetis, quan parlem de “prediabetis” ens referim a:",
+        "options": {
+            "a": "Intolerància a la glucosa (IG): glicèmia a les 2 hores del TTOG ≥ 140 mg/dl i < 200 mg/dl, en una ocasió.",
+            "b": "Glucèmia basal alterada (GBA): glicèmia en dejú ≥ 100 mg/dl i < 140 mg/dl, en dues ocasions.",
+            "c": "Hemoglobina glicosilada 6-6.4 %.",
+            "d": "Totes són correctes."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Hemoglobina glicosilada 6-6.4 %."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Segons la taula d'equivalències d'aliments rics en Hidrats de Carboni de la Fundació per la Diabetes (taula 16 del temari) calcula les UI d'HC que conté el següent plat: 100 gr de llenties (cru), 60 gr de bledes, 30 gr de pastanaga, 60 gr de ceba i 60 gr de tomàquets:",
+        "options": {
+            "a": "4 UI",
+            "b": "5 UI",
+            "c": "6 UI",
+            "d": "7 UI"
+        },
+        "correct": {
+            "option": "c",
+            "content": "El total serien 6 UI que corresponen als següents aliments:\n- 100 gr de llenties = 5 UI\n- 60 gr de ceba = 0,4 UI\n- 60 gr de bledes = 0,2 UI\n- 60 gr de tomàquets = 0,2 UI\n- 30 gr de pastanaga = 0,2 UI"
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Assenyala la resposta correcta respecte a les característiques de la Diabetis Mellitus tipus 2:",
+        "options": {
+            "a": "Apareix generalment en persones joves.",
+            "b": "Presenta dues alteracions fisiopatològiques bàsiques: resistència a la insulina i deficiència relativa de la secreció.",
+            "c": "En general succeeix per la progressió de la Diabetis Mellitus tipus 1, que posteriorment comporta un dèficit absolut d’insulina.",
+            "d": "El diagnòstic s’estableix per un inici clínic brusc, amb simptomatologia manifesta: poliúria, polifàgia, polidípsia, pèrdua de pes, astènia i tendència a la cetosi."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Presenta dues alteracions fisiopatològiques bàsiques: resistència a la insulina i deficiència relativa de la secreció."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Segons els criteris diagnòstics de la diabetis i alteracions de la glucosa proposat per l’American Diabetis Association (ADA), en quin dels següents casos es considera que estem davant d’una Diabetis Mellitus:",
+        "options": {
+            "a": "Valor de HbA1c 7.3 %.",
+            "b": "Glucèmia a les 2 hores del test de tolerància oral a la glucosa de 195 mg/dl.",
+            "c": "Glucèmia basal de 125 mg/dl.",
+            "d": "Totes són incorrectes."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Glucèmia a les 2 hores del test de tolerància oral a la glucosa de 195 mg/dl."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Identifica la resposta correcta respecte els objectius del tractament de la Diabetis Mellitus:",
+        "options": {
+            "a": "El tractament de la diabetis tipus 2 es fonamenta en tres pilars: l’alimentació, l’exercici físic i el tractament farmacològic.",
+            "b": "Els pacients amb prediabetis no necessiten ser inclosos en un programa de seguiment, ja que no presenten Diabetis Mellitus.",
+            "c": "El tractament farmacològic de la Diabetis tipus 2, normalment, es prescriu quan, als 3-6 mesos d’haver iniciat un pla d’exercici i d’alimentació adequat a la persona, no s’assoleix un bon control glucèmic.",
+            "d": "Les respostes a i c són correctes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Les respostes a i c són correctes."
+        }
+    },
+    {
+        "topic": "Diabetis (1)",
+        "question": "Quina de les següents medicacions es considera el fàrmac de primera elecció, redueix la producció hepàtica de glucosa i no produeix hipoglucèmies ni increment de pes:",
+        "options": {
+            "a": "Sulfonilurees",
+            "b": "Glitazones",
+            "c": "Anàlegs del GLP-1",
+            "d": "Metformina"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Metformina"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "Els òrgans diana de la macroangiopatia diabètica són:",
+        "options": {
+            "a": "Vasos coronaris i cerebrals i extremitats inferiors",
+            "b": "Ulls i retina",
+            "c": "Ronyó",
+            "d": "Miocardi"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Vasos coronaris i cerebrals i extremitats inferiors"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "En una persona amb Diabetis Mellitus tipus 2 en tractament amb insulina que presenta febre i una malaltia intercurrent, identifica una mesura errònia:",
+        "options": {
+            "a": "Parestèsies",
+            "b": "Hipotensió ortostàtica",
+            "c": "Hipoglucèmia",
+            "d": "Debilitat motriu"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Reduir la dosi d’insulina si menja poc"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "Quins són els símptomes neuroglucogènics més importants en una hipoglucèmia?",
+        "options": {
+            "a": "Augment de la sudoració",
+            "b": "Augment de la temperatura dels peus",
+            "c": "Absència de pols arterial",
+            "d": "Totes són certes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Disfunció cognitiva, somnolència i disminució d’habilitats psicomotrius"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "En una persona amb Diabetis Mellitus tipus 2 que es tracta amb fàrmacs que SÍ provoquen hipoglucèmies i té un control glucèmic estable, quina seria la recomanació de periodicitat d’autoanàlisi segons els criteris de la redGDPS?",
+        "options": {
+            "a": "Extremitat inferior esquerre: arteriopatia perifèrica severa; Extremitat inferior dreta: normal",
+            "b": "Extremitat inferior esquerre: arteriopatia perifèrica severa; Extremitat inferior dreta: arteriopatia moderada",
+            "c": "Extremitat inferior esquerre: arteriopatia perifèrica moderada; Extremitat inferior dreta: normal",
+            "d": "Extremitat inferior esquerre: calcificació arterial; Extremitat inferior dreta: normal"
+        },
+        "correct": {
+            "option": "a",
+            "content": "1 glicèmia a la setmana i sempre en cas de sospita d’hipoglucèmia"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "En quines circumstàncies no es recomanaria la determinació de cetonúria:",
+        "options": {
+            "a": "Aeròbic combinat amb exercicis de força d’intensitat moderada",
+            "b": "Aeròbic d’intensitat alta",
+            "c": "Anaeròbic d’intensitat baixa",
+            "d": "Anaeròbic d’intensitat moderada"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La hipoglucèmia no s'acompanya de cetonúries. Com a norma general es recomanarà la determinació de cetonúria en els casos de procés intercurrent, estrès, quan la glucèmia és superior a 300 mg/dl o per la presència de símptomes de cetosi (nàusees, vòmits, dolor abdominal)."
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "En quin cas estaria contraindicada la pràctica d’exercici físic?",
+        "options": {
+            "a": "Infart Agut de Miocardi de menys de 6 mesos.",
+            "b": "Glicèmies ≥ 250 mg/dl.",
+            "c": "Retinopatia proliferativa",
+            "d": "Hepatopatia controlada"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Retinopatia proliferativa. La pràctica d’exercici físic està contraindicada en els casos següents:\n- Glicèmies > 300 mg/dl i/o en presència de cetonúries positives.\n- Hipoglucèmies asimptomàtiques en pacients tractats amb insulina o fármacs orals amb risc d’hipoglucèmies.\n- Retinopatia preproliferativa i/o proliferativa per risc d’hemorràgies del vitri.\n- Hemorràgia vitria o hemorràgia retiniana recent important.\n- Neuropatia autonòmica severa.\n- Neuropatia perifèrica severa.\n- Nefropatia diabètica greu."
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "Quin és el mètode d'elecció per la detecció i el tractament de la nefropatia diabètica?",
+        "options": {
+            "a": "Accident isquèmic cerebral",
+            "b": "Neuropatia diabètica",
+            "c": "Hipoglucèmies",
+            "d": "Infart Agut de Miocardi"
+        },
+        "correct": {
+            "option": "c",
+            "content": "L'índex albúmina/creatinina en mostra d'orina del matí es considera actualment el mètode d'elecció per al diagnòstic i al seguiment de la nefropatia diabètica."
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "El mode d’acció de l’anàleg d’insulina Aspart dels anàlegs d’insulina ràpids o regular és:",
+        "options": {
+            "a": "Inici de l’acció: 5-10 min; Pic 1 hora; Durada entre 3-4 hores",
+            "b": "Inici de l’acció: 15-20 min; Pic 2 hores; Durada entre 5-6 hores",
+            "c": "Inici de l’acció: 30-60 min; Pic 3 hores; Durada entre 6-8 hores",
+            "d": "Inici de l’acció: 1-2 hores; Pic 4 hores; Durada entre 8-10 hores"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Inici de l’acció: 5-10 min; Pic 1 hora; Durada entre 3-4 hores"
+        }
+    },
+    {
+        "topic": "Diabetis (2)",
+        "question": "Una de les pautes d’insulinització més utilitzades a l’Atenció Primària és la insulinització nocturna en teràpia combinada. En què consisteix?",
+        "options": {
+            "a": "És la combinació de dos tipus d’insulina en la dosi nocturna",
+            "b": "Consisteix en l’administració d’insulina ràpida per la nit si les glicèmies són elevades",
+            "c": "És la pauta d’una dosi d’insulina abans d’anar a dormir (bedtime) (en combinació o no amb fàrmacs orals, normalment la metformina)",
+            "d": "Consisteix en la combinació de dues dosis d’insulina preprandial abans d’esmorzar i sopar"
+        },
+        "correct": {
+            "option": "c",
+            "content": "És la pauta d’una dosi d’insulina abans d’anar a dormir (bedtime) (en combinació o no amb fàrmacs orals, normalment la metformina)"
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Identifica la afirmació falsa respecte els factors que poden modificar l'absorció de la insulina:",
+        "options": {
+            "a": "L'autonomia del malalt per realitzar les activitats bàsiques de la vida diària (ABVD)",
+            "b": "L'estat cognitiu",
+            "c": "L'autonomia del malalt per realitzar les activitats instrumentals de la vida diària (AIVD)",
+            "d": "El risc social"
+        },
+        "correct": {
+            "option": "b",
+            "content": "La absorció és més ràpida en l'abdomen i més lenta en les cuixes i les natges. En canvi és cert:\n\n- La temperatura elevada per escalfar, massatge o exercici\n- La lipodistròfia provocada per punxar sempre al mateix lloc\n- La administració en teixit intradèrmic provoca absorció més lenta i en múscul més ràpida."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Quina és l'etapa fonamental del procés d'infermeria on es realitza una anàlisi de les dades identificades en la valoració?",
+        "options": {
+            "a": "La valoració",
+            "b": "El diagnòstic",
+            "c": "L'execució",
+            "d": "La planificació"
+        },
+        "correct": {
+            "option": "b",
+            "content": "El diagnòstic"
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "El nucli de l'atenció a domicili és:",
+        "options": {
+            "a": "El pacient i la seva família",
+            "b": "Únicament el pacient",
+            "c": "El pacient, el cuidador/a principal i el seu entorn",
+            "d": "El pacient i els professionals que en tenen cura"
+        },
+        "correct": {
+            "option": "c",
+            "content": "El nucli de l'atenció a domicili no només és el pacient sinó també el cuidador/a i l'entorn que l'envolta."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "L'escala de Braden constitueix:",
+        "options": {
+            "a": "Els resultats del pacient tan individual com col·lectivament.",
+            "b": "La conducta infermera per ajudar al pacient.",
+            "c": "La descripció de l'estat, conductes i sentiments del pacient.",
+            "d": "L'avaluació dels resultats del pacient."
+        },
+        "correct": {
+            "option": "d",
+            "content": "L'escala de Braden constitueix una eina metodològica per valorar les nafres per pressió i, en conseqüència, prendre decisions respecte al pla de cures."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Amb relació als problemes interdependents, els professionals d'infermeria:",
+        "options": {
+            "a": "Formulen el diagnòstic definitiu.",
+            "b": "Prescriuen les intervencions.",
+            "c": "Prescriuen les intervencions en col·laboració amb el metge.",
+            "d": "Segueixen únicament les ordres mèdiques."
+        },
+        "correct": {
+            "option": "c",
+            "content": "En un problema interdependent, el metge i la infermera treballen en col·laboració per tal de tractar problemes que afecten ambdós professionals."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "L'observació objectiva NO valora:",
+        "options": {
+            "a": "La tensió arterial.",
+            "b": "La temperatura.",
+            "c": "La higiene corporal.",
+            "d": "La integritat de la pell."
+        },
+        "correct": {
+            "option": "c",
+            "content": "c. La higiene corporal no es considera un paràmetre que es pugui mesurar de forma objectiva."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Quin instrument de valoració s'utilitza en atenció domiciliària per avaluar les activitats instrumentals de la vida diària (AIVD)?",
+        "options": {
+            "a": "L'índex de Katz.",
+            "b": "L'escala de Lawton.",
+            "c": "L'índex de Barthel.",
+            "d": "La taula de Pfeiffer."
+        },
+        "correct": {
+            "option": "b",
+            "content": "b. Per mesurar les AIVD s'utilitza l'escala de Lawton. L'índex de Katz i l'índex de Barthel mesuren l'autonomia del malalt per realitzar les activitats bàsiques de la vida diària. La taula de Pfeiffer avalua l'estat cognitiu."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Segons l'escala de Zarit, en quina situació de sobrecàrrega hauria de començar a intervenir la infermera per tal de prevenir la situació de claudicació en el/la cuidador/a?",
+        "options": {
+            "a": "Quan no presenta cap sobrecàrrega",
+            "b": "Quan presenta una sobrecàrrega lleugera",
+            "c": "Quan té una sobrecàrrega moderada",
+            "d": "Quan hi ha una sobrecàrrega intensa"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Per tal de prevenir la claudicació en el/la cuidador/a, i basant-nos en l'escala de Zarit, és decisiu que la infermera intervingui des del moment en què es detecta una sobrecàrrega lleugera per tal de prevenir la situació de claudicació."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "El cuidador/a principal és la persona que:",
+        "options": {
+            "a": "S'implica en les cures de la persona malalta i que la infermera cal que identifiqui",
+            "b": "S'encarrega que es compleixin les cures de forma adequada encara que no se'n faci càrrec de forma directa",
+            "c": "Assumeix la responsabilitat total de les cures",
+            "d": "Les respostes a i c són certes"
+        },
+        "correct": {
+            "option": "d",
+            "content": "El/la cuidador/a principal és la persona que assumeix la responsabilitat total de les cures i que la majoria de vegades coincideix amb el cuidador informal. A més, cal que la infermera l'identifiqui per tal d'implicar-lo/a en el pla de cures de la persona malalta."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Quins elements poden desenvolupar la claudicació del cuidador?",
+        "options": {
+            "a": "Realitzar cures molt complexes amb recursos insuficients.",
+            "b": "El sentiment de pèrdua de la persona que es cuida.",
+            "c": "Conflictes familiars, laborals, personals.",
+            "d": "Totes les respostes són certes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes les respostes són certes."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "A quin estadi, segons la classificació de Beare i Myers, correspon una nafra profunda que presenta una escara marró o negra?",
+        "options": {
+            "a": "Estadi I",
+            "b": "Estadi II",
+            "c": "Estadi III",
+            "d": "Estadi IV"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Estadi IV"
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "A quina part del diagnòstic d'infermeria s'inclouen les dades objectives observades pel professional?",
+        "options": {
+            "a": "Diagnòstic real",
+            "b": "Diagnòstic de risc",
+            "c": "Diagnòstic d’alt risc",
+            "d": "Diagnòstic probable"
+        },
+        "correct": {
+            "option": "b",
+            "content": "b. Els signes, les dades objectives observades pel professional, s'inclouen en les característiques definitòries d'un diagnòstic d'infermeria."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Quin dels següents No és un factor de risc a la llar?",
+        "options": {
+            "a": "Caminar descalç amb mitjons o mitges",
+            "b": "Tenir entrebancs en el terra de la llar",
+            "c": "Utilitzar les escales domèstiques",
+            "d": "Utilitzar sabates amb sola de goma"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Les sabates amb sola de goma són les més adients per evitar relliscades, ja que la resta de factors de risc predisposen a produir cops, talls, caigudes,..."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Un pacient atès a domicili, s'inclou en el programa d’atenció domiciliària, quan:",
+        "options": {
+            "a": "Requereix un seguiment a domicili dels seus problemes de salut.",
+            "b": "S’han de planificar les seves cures.",
+            "c": "Compleix els criteris d’inclusió al programa.",
+            "d": "Totes les respostes són certes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Un pacient atès en el domicili s'inclou en el programa si requereix: un seguiment dels problemes de salut, una planificació de les seves cures i compleix els criteris d’inclusió."
+        }
+    },
+    {
+        "topic": "Atenció Domiciliaria",
+        "question": "Una persona queda inclosa en el programa ATDOM si presenta:",
+        "options": {
+            "a": "Grip i una temperatura axil·lar de 39 °C.",
+            "b": "Una edat de ≥ 75 anys.",
+            "c": "Diabetis i viu sola.",
+            "d": "Artritis reumatoide i no pot desplaçar-se fora del seu domicili."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Perquè una persona s'inclogui en el programa ATDOM cal que compleixi els criteris comuns mínims que estableix el Servei Català de la Salut. Aquests criteris són: la malaltia crònica i la incapacitat per desplaçar-se fora del domicili."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quin és el grup terapèutic utilitzat en el tractament de la HTA que ocasiona tos en un 5-20 % dels pacients tractats?",
+        "options": {
+            "a": "Diürètics.",
+            "b": "Antagonistes del Calci.",
+            "c": "Inhibidors de l’enzim conversor de l’angiotensina (IECA).",
+            "d": "Beta bloquejants."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Inhibidors de l’enzim conversor de l’angiotensina (IECA)."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quin objectiu té la rehabilitació pulmonar en els malalts amb MPOC?",
+        "options": {
+            "a": "Mantenir la forma física.",
+            "b": "Trencar l’espiral de la dispnea.",
+            "c": "Aconseguir el nivell màxim d’independència de l’individu en el seu entorn.",
+            "d": "Totes són certes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes són certes."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Per mesurar correctament la PA, el braçalet ha de col·locar-se:",
+        "options": {
+            "a": "Reduir la ingesta de sal.",
+            "b": "Reduir pes.",
+            "c": "Augmentar la ingesta de líquids.",
+            "d": "Reduir la ingesta d'alcohol."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Aproximadament a 2 centímetres del plec antecubital per damunt de l’artèria braquial."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quina és la mesura més important i més cost-efectiva per reduir el risc i la progressió de la MPOC?",
+        "options": {
+            "a": "Dieta equilibrada.",
+            "b": "Cessació tabàquica.",
+            "c": "Bona adherència al tractament."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Cessació tabàquica."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quin símptoma NO és característic de la MPOC?",
+        "options": {
+            "a": "Tos crònica.",
+            "b": "Producció crònica d'esput.",
+            "c": "Dispnea.",
+            "d": "Rinorrea."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Rinorrea."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quina de les següents malalties s'inclou dins del terme MPOC?",
+        "options": {
+            "a": "Bronquitis crònica.",
+            "b": "Asma.",
+            "c": "Tuberculosi.",
+            "d": "Fibrosi quística."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Bronquitis crònica."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Per a realitzar correctament una MAPA:",
+        "options": {
+            "a": "Cal dedicar a la preparació del pacient entre 15-30 minuts.",
+            "b": "Per realitzar les mesures, s'utilitzarà el braç no dominant.",
+            "c": "Les dades del pacient han de ser introduïdes al monitor.",
+            "d": "Totes són certes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes són certes."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Per mesurar correctament la PA el braç ha d’estar:",
+        "options": {
+            "a": "A l'alçada del cor.",
+            "b": "Formant un angle de 30 graus amb el cos.",
+            "c": "Per damunt de la línia del cor.",
+            "d": "No és important la posició del braç per prendre la PA."
+        },
+        "correct": {
+            "option": "a",
+            "content": "A l'alçada del cor."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quina prova complementària és imprescindible pel diagnòstic de MPOC?",
+        "options": {
+            "a": "Tomografia computada toràcica.",
+            "b": "La radiografia de tòrax.",
+            "c": "L’espirometria forçada.",
+            "d": "Totes són certes."
+        },
+        "correct": {
+            "option": "c",
+            "content": "L’espirometria forçada."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quina seria una contraindicación absoluta a l’hora de demanar una espirometria forçada?",
+        "options": {
+            "a": "Reducció del pes.",
+            "b": "Dieta saludable amb reducció de sal i un consum moderat d’alcohol.",
+            "c": "Cessació tabàquica.",
+            "d": "Totes són certes."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Totes són certes."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quina és una de les principals avantatges de la MAPA? Triï una:",
+        "options": {
+            "a": "És un mètode econòmic.",
+            "b": "Permet fer preses tensionals durant el període de son del pacient.",
+            "c": "És un mètode diagnòstic còmode pel pacient.",
+            "d": "Totes són correctes."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Permet fer preses tensionals durant el període de son del pacient."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Quines vacunes es recomanen posar especialment a la població amb MPOC?",
+        "options": {
+            "a": "Cal que buidi la bufeta abans de la visita.",
+            "b": "Si el malalt ve a primera hora del matí, que vingui a la visita havent pres la medicació.",
+            "c": "Pot fumar fins a cinc minuts abans de la visita.",
+            "d": "Pot fer exercici sense cap limitació."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Vacuna antigripal + vacuna antineumocòccica polisacàrida 23-valent (Pn23)"
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Al prendre la PA amb un aparell aneroide el braçal ha de desinflar-se a una velocitat aproximada de:",
+        "options": {
+            "a": "Pacient amb MPOC que presenta l'any previ dos o més aguditzacions moderades o una greu.",
+            "b": "Pacient amb MPOC que presenta com a màxim un episodi d’agudització moderada l’any previ.",
+            "c": "Pacient amb MPOC que compleix també criteris d’asma.",
+            "d": "És l’etapa prèvia al diagnòstic de la MPOC."
+        },
+        "correct": {
+            "option": "a",
+            "content": "2-3 mmHg per segon."
+        }
+    },
+    {
+        "topic": "PA + EPOC",
+        "question": "Els principals inconvenients de l’AMPA són:",
+        "options": {
+            "a": "Només es pot mesurar la PA estàtica.",
+            "b": "Es poden donar possibles errors de mediciò.",
+            "c": "No registra la PA nocturna.",
+            "d": "Tots els inconvenients són certs."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Tots els inconvenients són certs."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Els resultats de la següent prova broncodilatadora: FEV1/CVF < 70% i FEV1 50-79% a quin nivell de gravetat de la MPOC correspon i a quin estadi GOLD?",
+        "options": {
+            "a": "Intentar evitar-la mitjançant tots els recursos",
+            "b": "Enviar el malalt a l’hospital o centre de referència",
+            "c": "Adequar la terapèutica a la situació real",
+            "d": "Vigilar la deshidratació i desnutrició del malalt"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Nivell de gravetat Moderat. Estadi GOLD II"
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Quan al medicació oral no es possible per situació d’agonia i la família ens demana tenir el malalt a casa, es poden administrar els fàrmacs amb una bomba de perfusió contínua subcutània. Si el malalt pren 60 mg de MST® cada dotze hores, quants mgs de clorur mórfic s’hauran de prescriure per 24 hores?",
+        "options": {
+            "a": "20 mgs.",
+            "b": "60 mgs.",
+            "c": "120 mgs.",
+            "d": "No cal administrar si està en agonia."
+        },
+        "correct": {
+            "option": "b",
+            "content": "60 mgs."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Les nàusees i vòmits en un malalt en la situació de malaltia avançada i terminal:",
+        "options": {
+            "a": "Apareixen sempre com efecte secundari de la morfina.",
+            "b": "S'han de valorar i tractar correctament.",
+            "c": "Són poc millorables amb medicació.",
+            "d": "Són normals per la patologia que pateixen."
+        },
+        "correct": {
+            "option": "b",
+            "content": "S'han de valorar i tractar correctament."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "La intoxicació per opiacis pot provocar neurotoxicitat al malalt, un dels signes presents en la neurotoxicitat és:",
+        "options": {
+            "a": "La xerostomia.",
+            "b": "La somnolència al començar el tractament.",
+            "c": "Una erupció cutània de marges definits.",
+            "d": "Una diaforesi marcada."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Una diaforesi marcada."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El confort que es pot oferir a un pacient amb dispnea intensa es basa en:",
+        "options": {
+            "a": "El tractament farmacològic per poder sedar-lo.",
+            "b": "El tractament farmacològic i les mesures no farmacològiques.",
+            "c": "La presència personal de l’equip assistencial.",
+            "d": "La presència de la família."
+        },
+        "correct": {
+            "option": "b",
+            "content": "El tractament de la dispnea es basa tant en mesures farmacològiques com no farmacològiques i altres elements de confort."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Quins fàrmacs no es poden administrar per la via subcutània?",
+        "options": {
+            "a": "Els fàrmacs hidrosolubles",
+            "b": "Els fàrmacs oleosos o liposolubles",
+            "c": "Tots es poden administrar per la via subcutània",
+            "d": "Els opioids del tercer esglaó de l’escala analgèsica"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Els fàrmacs liposolubles no es dissolen bé en l’espai aquós del teixit subcutani."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "La rotació d'opioids és:",
+        "options": {
+            "a": "El canvi de localització del pegat",
+            "b": "Una indicació terapèutica exclusiva del metge",
+            "c": "El canvi d'un opioid per un altre més feble",
+            "d": "El canvi d'un opioid per un altre més potent"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Una indicació terapèutica exclusiva del metge"
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "La dieta que podem indicar a un malalt amb anorèxia és:",
+        "options": {
+            "a": "Dieta hiperproteica per aprofitar els àpats",
+            "b": "Dieta hipercalòrica per millorar la glicèmia",
+            "c": "Dieta fraccionada segons gustos i desigs",
+            "d": "Dieta absoluta per no tormentar-lo"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Dieta fraccionada segons gustos i desigs"
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Si un pacient pren una pastilla de Sevredol® de 10 mgs cada 4 hores i s’ha de passar a MST®, quina dosi se li ha de prescriure?",
+        "options": {
+            "a": "20 mgs cada 12 hores.",
+            "b": "30 mgs cada 12 hores.",
+            "c": "30 mgs cada vegada.",
+            "d": "60 mgs cada 12 hores."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Se li ha de prescriure cada 12 hores, ja que 10 mg cada 4 hores és el mateix que 30 mgs cada 12 hores."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "La constipació produïda per l’efecte dels opiods cal tractar-la:",
+        "options": {
+            "a": "De forma preventiva amb la rotació d’opioids.",
+            "b": "De forma preventiva amb la dieta rica en residus.",
+            "c": "Amb laxants pautats de forma regular i si cal amb enemes.",
+            "d": "Amb laxants per via rectal."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Cal iniciar els laxants quan comença el tractament amb opiacis, per evitar la constipació."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El treball de l'equip i els recursos terapèutics han d'anar dirigits a:",
+        "options": {
+            "a": "Atendre els símptomes del malalt.",
+            "b": "Oferir suport al malalt i a la família.",
+            "c": "Disminuir l'impacte de la situació.",
+            "d": "**Totes les respostes anteriors són certes.**"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Els recursos terapèutics aniran dirigits tant a atendre els símptomes del malalt com a oferir suport al malalt i a la seva família. La resposta correcta és: Totes les respostes anteriors són certes."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Els signes de neurotoxicitat no contemplen:",
+        "options": {
+            "a": "**La pèrdua de gana**",
+            "b": "La boca seca i la sudoració",
+            "c": "La somnolència i les nàusees",
+            "d": "La disforesi profusa"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La pèrdua de gana, tot i que és present en quasi tot el procés, no és un aspecte definitori de la neurotoxicitat. Tots els altres sí."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "En un malalt terminal serà necessari utilitzar oxigen domiciliari quan:",
+        "options": {
+            "a": "La hipòxia del malalt es comprovi.",
+            "b": "No cal administrar oxigen al domicili perquè no millora la situació.",
+            "c": "La família ho demani.",
+            "d": "Millori el confort del pacient."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Millori el confort del pacient."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "La decisió de la família de no dir la veritat al malalt s'ha de:",
+        "options": {
+            "a": "Impossible de predir",
+            "b": "De pocs dies",
+            "c": "De pocs mesos",
+            "d": "De pocs anys"
+        },
+        "correct": {
+            "option": "b",
+            "content": "Entendre en el context i treballar-ho amb la família."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El treball en equip ha de contemplar necessàriament:",
+        "options": {
+            "a": "Visites conjuntes al domicili del malalt.",
+            "b": "Entrevistes amb tots els professionals que intervenen.",
+            "c": "Unificació de criteris entre els membres de l'equip.",
+            "d": "Reunions mensuals de discussió."
+        },
+        "correct": {
+            "option": "c",
+            "content": "Unificació de criteris entre els membres de l'equip."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El dolor en la situació de malaltia oncològica avançada és una percepció:",
+        "options": {
+            "a": "Subjectiva i canviant.",
+            "b": "Observable i palpable.",
+            "c": "Definida i clara.",
+            "d": "Objectiva i mesurable."
+        },
+        "correct": {
+            "option": "a",
+            "content": "El dolor és sempre un símptoma subjectiu per al malalt i quasi sempre variable i canviant a causa de les diverses circumstàncies que l'envolten."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El tractament del dolor en la situació de malaltia oncològica avançada es basa en l'administració d'analgèsics segons les indicacions de l'escala de l'OMS, i es poden administrar:",
+        "options": {
+            "a": "Només per via oral.",
+            "b": "Per totes les vies.",
+            "c": "Mai per via endovenosa.",
+            "d": "Sempre per via subcutània."
+        },
+        "correct": {
+            "option": "b",
+            "content": "La farmacologia actual ofereix la possibilitat de presentar fàrmacs opiacis o del tercer esglaó administrables per totes les vies."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "El dolor i la dispnea són símptomes que provoquen molta angoixa al malalt i a la família, per tant cal oferir tractament:",
+        "options": {
+            "a": "Analgèsic i morfina.",
+            "b": "Analgèsic i coanalgèsic.",
+            "c": "En un centre hospitalari.",
+            "d": "Farmacològic i mesures de suport."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Farmacològic i mesures de suport."
+        }
+    },
+    {
+        "topic": "Paliatius",
+        "question": "Quina de les següents afirmacions no és certa en situació de malaltia avançada i terminal:",
+        "options": {
+            "a": "El confort és difícil d'aconseguir en una situació de malaltia avançada i terminal.",
+            "b": "La presència dels fills dins el nucli familiar ajuda a la superació del procés.",
+            "c": "La presència de dolor acostuma a desestabilitzar l’equilibri de la situació.",
+            "d": "Els símptomes descontrolats, solen provocar demandes urgents."
+        },
+        "correct": {
+            "option": "a",
+            "content": "El confort és difícil d'aconseguir en una situació de malaltia avançada i terminal."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Quina de les següents etapes és pròpia d’una pràctica basada en l’evidència?",
+        "options": {
+            "a": "Formulació d’una hipòtesis de investigació",
+            "b": "Identificació de l’opinió d’experts",
+            "c": "Valoració crítica dels documents obtinguts",
+            "d": "Aplicació de protocols d’assaigs clínics"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Valoració crítica dels documents obtinguts."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Quines organitzacions o agències destaquen als anys 80 com a conseqüència de l’increment de la despesa sanitària i que obliga a una política de control i de contenció dels recursos?",
+        "options": {
+            "a": "Les agències d’avaluació de les tecnologies sanitàries",
+            "b": "La Col·laboració Cochrane",
+            "c": "Les organitzacions de pacients empoderats",
+            "d": "Les agències de benestar social"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Les agències d’avaluació de les tecnologies sanitàries."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Respecte a les escales destinades a l'obtenció de informació és correcte afirmar que:",
+        "options": {
+            "a": "Les escales permeten l'escalament acumulatiu dels seus ítems.",
+            "b": "Les escales categòriques son les d'estimulació.",
+            "c": "Els qüestionaris són el mateix que les escales.",
+            "d": "Les escales de Likert, de Guttman, d'Osgood, etc són escales categòriques."
+        },
+        "correct": {
+            "option": "a",
+            "content": "Les escales permeten l'escalament acumulatiu dels seus ítems."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Les possibles limitacions i dificultats d'una investigació es detallen a l'apartat:",
+        "options": {
+            "a": "Introducció",
+            "b": "Metodologia",
+            "c": "Resultats",
+            "d": "Discussió"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Discussió"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "En una valoració crítica, les preguntes que analitzen la validesa externa d’un estudi o la possibilitat d’aplicar unes conclusions al problema actual que s’exposa a la pregunta estructurada, són les preguntes de:",
+        "options": {
+            "a": "Eliminació",
+            "b": "Detall",
+            "c": "Validesa dels resultats",
+            "d": "Cap de les respostes anteriors és certa"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Cap de les respostes anteriors és certa"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "En relació a les Guies per a la Pràctica Clínica és correcte afirmar que:",
+        "options": {
+            "a": "Guia Salud és un projecte del Sistema Nacional de Salud",
+            "b": "Les guies s’elaboren amb l’única i exclusiva intervenció de polítics i especialistes",
+            "c": "S’elaboren de la mateixa manera que els protocols clínics",
+            "d": "Les agències que elaboraren les guies tenen el compromís de que l’accés sigui gratuït"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Guia Salud és un projecte del Sistema Nacional de Salud"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Quin dels següents NO és un dels components d’una pregunta estructurada?",
+        "options": {
+            "a": "El mostratge consecutiu",
+            "b": "El aleatori simple",
+            "c": "El aleatori sistemàtic",
+            "d": "El aleatori estratificat"
+        },
+        "correct": {
+            "option": "c",
+            "content": "L'anàlisi estadística"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "A quina fase d'un assaig clínic correspon l'activitat en que ja aprovat el fàrmac se sotmet a vigilància per detectar possibles efectes adversos no identificats anteriorment?",
+        "options": {
+            "a": "Fase I",
+            "b": "Fase II",
+            "c": "Fase III",
+            "d": "Fase IV"
+        },
+        "correct": {
+            "option": "d",
+            "content": "Fase IV"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "L'escala per avaluar l’evidència que té com objectiu desenvolupar un sistema consensuat, sensible i transparent que permet jerarquitzar la qualitat de l’evidència s’anomena:",
+        "options": {
+            "a": "La variabilitat en la pràctica clínica",
+            "b": "La importància i impacte d'un problema en la morbimortalitat",
+            "c": "La disponibilitat de professionals amb coneixements sobre el problema de salut",
+            "d": "Tots les respostes anteriors són certes"
+        },
+        "correct": {
+            "option": "a",
+            "content": "GRADE"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "El requisit o atribut segons el qual en una guia i per un problema clínic concret, qualsevol professional faria una interpretació idèntica, correspon a:",
+        "options": {
+            "a": "Claretat",
+            "b": "Flexibilitat",
+            "c": "Fiabilitat",
+            "d": "Aplicabilitat"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Fiabilitat"
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "En la construcció del coneixement científic es pot afirmar que:",
+        "options": {
+            "a": "El coneixement científic és estàtic o fixe, la veritat és incontrovertible o indiscutible.",
+            "b": "En el paradigma de la postmodernitat, Lyotard afirma que la veritat és necessària i universal.",
+            "c": "El inductivisme marca l’inici del coneixement científic.",
+            "d": "Kuhn va impulsar el concepte de les estructures de les revolucions científiques."
+        },
+        "correct": {
+            "option": "d",
+            "content": "Kuhn va impulsar el concepte de les estructures de les revolucions científiques."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Quines de les característiques següents corresponnen a la investigació quantitativa?",
+        "options": {
+            "a": "El seu disseny és flexible, circular i obert.",
+            "b": "Explica les relacions causals i les seves unitats d'anàlisi són els grups o conjunts.",
+            "c": "Permet obtenir informació narrativa i en profunditat gràcies a les entrevistes i els grups de discussió, entre altres.",
+            "d": "L'anàlisi de les dades és inductiu i exploratori."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Explica les relacions causals i les seves unitats d'anàlisi són els grups o conjunts."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Respecte a l'objectiu: avaluar l'efectivitat d'un programa de prevenció de violència masclista mitjançant una aplicació de mòbil adreçada a adolescents en l'Institut N durant el curs ABC, podem afirmar que:",
+        "options": {
+            "a": "És un objectiu de tipus descriptiu.",
+            "b": "És un objectiu de tipus explicatiu.",
+            "c": "És un objectiu de tipus predictiu.",
+            "d": "No és un objectiu de recerca."
+        },
+        "correct": {
+            "option": "c",
+            "content": "És un objectiu de tipus predictiu."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Quina de les característiques següents és pròpia d'un projecte de recerca?",
+        "options": {
+            "a": "En l'etapa de conceptualització se selecciona el tema, es fa la revisió bibliogràfica, etc.",
+            "b": "És un document que exigeix totes les activitats adreçades a l'obtenció de dades i la realització del seu anàlisi.",
+            "c": "A tots els objectius de recerca del projecte els cal una hipòtesi.",
+            "d": "El projecte de recerca no serveix per a l'obtenció de permisos o finançament."
+        },
+        "correct": {
+            "option": "a",
+            "content": "En l'etapa de conceptualització se selecciona el tema, es fa la revisió bibliogràfica, etc."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Respecte a l'enunciat: Determinar les necessitats d'informació i formació dels cuidadors informals de malalts terminals amb càncer de colon, podem afirmar que:",
+        "options": {
+            "a": "La variable depenent és el càncer de colon.",
+            "b": "Les necessitats d'informació i formació són variables demogràfiques.",
+            "c": "És un objectiu exploratori o descriptiu.",
+            "d": "Els malalts terminals són la variable independent."
+        },
+        "correct": {
+            "option": "c",
+            "content": "És un objectiu exploratori o descriptiu."
+        }
+    },
+    {
+        "topic": "Investigació",
+        "question": "Respecte als dissenys dels estudis observacionals, és correcte afirmar que:",
+        "options": {
+            "a": "Cap estudi observacional permet identificar la relació causa-efecte.",
+            "b": "Inclou els estudis de cohorts.",
+            "c": "Exigeixen intervencions controlades.",
+            "d": "Inclouen els assajos comunitaris."
+        },
+        "correct": {
+            "option": "b",
+            "content": "Inclou els estudis de cohorts."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "El lorazepam s'utilitza per tractar:",
+        "options": {
+            "a": "Disminució del flux renal i de la reabsorció de potassi per la inhibició de l’aldosterona",
+            "b": "Augment dels efectes de l’angiotensina II sobre la paret miocàrdica",
+            "c": "Vasodilatació com a resultat de la combinació dels efectes sobre l’angiotensina II i la bradicinina",
+            "d": "Totes són correctes"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Les benzodiazepines tenen propietats hipnòtiques, anticonvulsives i també ansiolítiques pel seu efecte depressor sobre el SNC.  \nLa resposta correcta és: L'ansietat"
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Com s’ha d’administrar el captopril?",
+        "options": {
+            "a": "Amb els menjars per disminuir la irritabilitat gàstrica",
+            "b": "En dejú per evitar problemes d’absorció",
+            "c": "Una vegada al dia amb l’esmorzar",
+            "d": "Una vegada al dia abans d’anar a dormir amb el sopar"
+        },
+        "correct": {
+            "option": "b",
+            "content": "En dejú per evitar problemes d’absorció"
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quina relació és correcta?",
+        "options": {
+            "a": "Càpsula – Conté principis actius de gust desagradable",
+            "b": "Tableta – Destinada a disgregar-se a l’estómac",
+            "c": "Supositori – No té metabolisme de primer pas",
+            "d": "Comprimit sublingual – Té metabolisme de primer pas"
+        },
+        "correct": {
+            "option": "a",
+            "content": "La càpsula conté principis actius de gust desagradable o que no es poden comprimir fàcilment. La tableta es disgrega a la boca. Els comprimits per via sublingual no pateixen metabolisme de primer pas a diferència de la via rectal que sí té una certa biotransformació hepàtica."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "De les frases següents quina podria ser un diagnòstic d’infermeria relacionat amb l’educació sobre la farmacoteràpia? El pacient:",
+        "options": {
+            "a": "Té un dèficit de coneixements sobre el fàrmac",
+            "b": "Pren el fàrmac tal com se li ha prescrit",
+            "c": "Expressa la importància del tractament farmacològic",
+            "d": "No ha patit cap reacció adversa al fàrmac"
+        },
+        "correct": {
+            "option": "a",
+            "content": "Un dels diagnòstics educacionals d’infermeria més freqüents amb relació al tractament farmacològic és el dèficit de coneixements sobre el fàrmac."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quina d'aquestes reaccions adverses està produïda per una interacció de tipus farmacocinètic?",
+        "options": {
+            "a": "Hipotensió severa per propranolol + alfuzosina",
+            "b": "Hemorràgia digestiva alta per piroxicam + àcid acetilsalicílic",
+            "c": "Hematoma abdominal per acenocoumarol + àcid acetilsalicílic",
+            "d": "Embaràs no desitjat per rifampicina + contraceptius orals"
+        },
+        "correct": {
+            "option": "d",
+            "content": "L'embaràs no desitjat pot estar produït per la interacció farmacocinètica entre la rifampicina i els contraceptius orals. La rifampicina disminueix els efectes dels contraceptius orals per inducció enzimàtica de la seva biotransformació."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quina de les següents afirmacions és INCORRECTA?",
+        "options": {
+            "a": "Quan s'avalua una reacció adversa (RA), la resposta a la pregunta: segueix una seqüència temporal adequada? no ha de ser necessàriament afirmativa",
+            "b": "Alguna RA pot ser causada per una interacció entre fàrmacs i aliments",
+            "c": "Els pacients amb trastorns renals poden ser més susceptibles de patir una RA",
+            "d": "Una RA es produeix a les dosis terapèutiques habituals"
+        },
+        "correct": {
+            "option": "a",
+            "content": "L'inici de la presa del fàrmac ha de ser previ a l'inici de la reacció adversa (RA), és a dir, abans de l'aparició del primer símptoma d'aquesta. Si no fos així, s'implicarien fàrmacs que es poden haver pres pels símptomes de la RA o són posteriors a la seva aparició."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quina de les següents afirmacions és correcta?",
+        "options": {
+            "a": "Un pacient té prescrit amoxicil·lina cada 8 hores, per millorar el compliment terapèutic i assegurar el manteniment constant dels nivells plasmàtics és aconsellable l'administració amb l'esmorzar, dinar i sopar",
+            "b": "L'aparició d'erupció cutània durant el tractament amb amoxicil·lina s'ha de valorar com un efecte indesitjable, pel que caldrà retirar l'antibiòtic i substituir-lo per un altre",
+            "c": "Si l'efecte beneficiós de l'antidepressiu no és clar en la primera setmana de tractament cal plantejar la necessitat d'un canvi de tractament",
+            "d": "La sequedat de boca i el restrenyiment són reaccions adverses de l'amitriptilina, si apareixen s'haurà de retirar el fàrmac i provar un altre tractament"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Els diürètics són els fàrmacs indicats per tractar la hipertensió d’un pacient d’edat avançada"
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quina de les següents afirmacions respecte als laxants és correcta?",
+        "options": {
+            "a": "És millor que es prenguin pel matí en dejú",
+            "b": "S'aconsella la seva administració junt a d'altres fàrmacs",
+            "c": "Cal prendre la mínima dosi tolerable durant el màxim temps possible",
+            "d": "El seu objectiu és aconseguir una deposició diària"
+        },
+        "correct": {
+            "option": "a",
+            "content": "És millor que es prenguin pel matí en dejú."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Què ha de tenir en compte la infermera SEMPRE quan informa sobre els fàrmacs?",
+        "options": {
+            "a": "Donar una informació única a pacients amb tractaments crònics per afavorir un bon compliment terapèutic",
+            "b": "Relacionar els efectes del fàrmac amb el benefici concret que es pretén aconseguir sobre la patologia a tractar",
+            "c": "No informar sobre efectes indesitjables ja que impliquen un major incompliment terapèutic",
+            "d": "Tota la responsabilitat dels canvis d’actitud del pacient que comporta la informació és del professional sanitari"
+        },
+        "correct": {
+            "option": "b",
+            "content": "En el moment de donar informació sobre fàrmacs s’ha de tenir en compte que la informació aïllada no serveix de res. El pacient ha de conèixer l’alteració que pateix i relacionar els efectes dels fàrmacs amb el benefici concret que es pretén aconseguir.\nLes respostes correctes son: Relacionar els efectes del fàrmac amb el benefici concret que es pretén aconseguir sobre la patologia a tractar, Tota la responsabilitat dels canvis d’actitud del pacient que comporta la informació és del professional sanitari."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "La informació mínima i necessària que cal donar als pacients quan comencen un tractament ha d’incloure:",
+        "options": {
+            "a": "Presentació, informació i tancament",
+            "b": "Introducció, preguntes i resum de la informació obtinguda",
+            "c": "Preguntes obertes, preguntes tancades i avaluació de la informació",
+            "d": "Introducció, obtenció de la informació i educació"
+        },
+        "correct": {
+            "option": "d",
+            "content": "L’efectivitat i efectes del medicament, efectes indesitjables, instruccions, recomanacions, properes consultes i la confirmació de la informació mínima a donar al pacient sempre que comença a utilitzar un nou fàrmac. Les altres respostes són clarament insuficients.\nLes respostes correctes són: Efectivitat, efectes beneficiosos i indesitjables, instruccions i recomanacions específiques, planificació de properes consultes, resposta a dubtes i confirmació de la informació."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "En el context de l’anamnesi farmacològica, si el professional d’infermeria pregunta al pacient: \"Algun cop ha pres alguna medicació per a la hipertensió?\", quin tipus de pregunta formula?",
+        "options": {
+            "a": "Inductora",
+            "b": "En positiu",
+            "c": "Neutra",
+            "d": "En negatiu"
+        },
+        "correct": {
+            "option": "c",
+            "content": "A l'hora d’obtenir informació, les preguntes s'han de formular de manera neutra per no condicionar la resposta del pacient en una direcció determinada."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Una bona anamnesi farmacològica no es podrà donar per finalitzada si no:",
+        "options": {
+            "a": "S'aconsegueix un diàleg amb el pacient i es manté una actitud asèptica",
+            "b": "Es formulen de manera neutra preguntes obertes i tancades",
+            "c": "Es verbalitza de manera resumida la informació que dóna el pacient",
+            "d": "Es registra tota la informació que fa referència als fàrmacs crònics que el pacient pren"
+        },
+        "correct": {
+            "option": "c",
+            "content": "Es verbalitza de manera resumida la informació que dóna el pacient"
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Un pacient asmàtic presenta una erupció generalitzada atribuïda a diclofenac, quina informació cal donar-li?",
+        "options": {
+            "a": "No s’ha de preocupar; l’efecte indesitjable és molt poc freqüent i no li tornarà a passar",
+            "b": "Pot tornar a prendre el diclofenac però caldrà que rebaixi la dosi a la meitat",
+            "c": "No pot tornar a prendre mai més diclofenac i l’analgèsic d’elecció és el paracetamol",
+            "d": "No pot prendre diclofenac i l’analgèsic d’elecció és l’àcid acetilsalicílic"
+        },
+        "correct": {
+            "option": "c",
+            "content": "No pot tornar a prendre mai més diclofenac i l’analgèsic d’elecció és el paracetamol"
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "Quin dels següents fàrmacs és inhibidor de la ciclooxigenasa amb un elevat índex de selecció de la COX-2?",
+        "options": {
+            "a": "Piroxicam",
+            "b": "Indometacina",
+            "c": "Celecoxib",
+            "d": "Metamizol"
+        },
+        "correct": {
+            "option": "c",
+            "content": "El celecoxib és un analgèsic amb un elevat índex de selecció de la COX-2."
+        }
+    },
+    {
+        "topic": "Farmacologia",
+        "question": "El mecanisme d’acció dels diürètics tiazídics és:",
+        "options": {
+            "a": "Augmentar la reabsorció de sodi i aigua en la primera part del túbul distal",
+            "b": "Inhibir la reabsorció de sodi i aigua en la primera part del túbul distal",
+            "c": "Inhibir l’aldosterona",
+            "d": "Inhibir els efectes de l’angiotensina II"
+        },
+        "correct": {
+            "option": "b",
+            "content": "El mecanisme d'acció dels diürètics tiazídics és inhibir la reabsorció de sodi i aigua en la primera part del túbul distal i augmentar d’aquesta manera la diüresi."
+        }
+    }
+]
