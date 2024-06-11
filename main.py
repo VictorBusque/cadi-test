@@ -9,6 +9,11 @@ import random
 with open('exam_questions.json', 'r', encoding='utf-8') as f:
     questions = json.load(f)
 
+with open("exam_2022_questions.json", "r", encoding="utf-8") as f:
+    questions_2022 = json.load(f)
+
+questions += questions_2022
+
 NUM_Q = 10
 
 exam_tab, docs_tab = st.tabs(["Examen", "Documentació"])
@@ -89,12 +94,12 @@ else:
         exam_tab.write(f"#### Pregunta {i + 1}: {q['question']}")
         exam_tab.write(f"Resposta correcta: {q['options'][q['correct']['option']]}")
         if st.session_state['answers'][i] == q['correct']['option']:
-            exam_tab.write(
-                    f"La teva resposta: {q['options'][st.session_state['answers'][i]] if st.session_state['answers'][i] else 'No answer'}")
             exam_tab.success("Correcte")
         elif st.session_state['answers'][i] == "Pass":
             exam_tab.warning("Passada")
         else:
+            exam_tab.write(
+                    f"La teva resposta: {q['options'][st.session_state['answers'][i]] if st.session_state['answers'][i] else 'No answer'}")
             exam_tab.error("Incorrecte")
 
 exam_tab.write("---")
